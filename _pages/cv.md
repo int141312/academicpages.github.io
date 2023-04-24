@@ -9,13 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
+Reseach Interests
+======
+* Deep Learning
+* Human-AI interaction
+* HCI
+* Data Science
+* XR
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
+* GIST, Gwangju, Republic of Korea (2023-present) 
+* Ulsan National Institute of Science and Technology (UNIST), Ulsan, Republic of Korea (2019)
+  Department of Natural Science, Bachelor of Science in Physics
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
+Experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -29,12 +38,13 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
+* python, c++, c#, 
+* MySQL
   * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  * 
+* 3D modeling: Sketchup
+* Unity
+
 
 Publications
 ======
@@ -42,18 +52,5 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+
