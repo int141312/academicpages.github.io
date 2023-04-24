@@ -3,11 +3,11 @@ main:
   - title: "About me"
     url: /aboutme/ 
     
-  - title: "Research"
-    url: /Research/
+  - title: "Researchs"
+    url: /researchs/
         
   - title: "Experiences"
-    url: /Experiences/
+    url: /experiences/
     
   - title: "CV"
     url: /cv/
