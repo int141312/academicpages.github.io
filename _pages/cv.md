@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Research Interests
+Research Interests{: .align-center}
 ======
 * Deep Learning
 * Human-AI interaction
@@ -17,7 +17,7 @@ Research Interests
 * Data Science
 * XR
 
-Education
+Education{: .align-center}
 ======
 * GIST, Gwangju, Republic of Korea (2023-present) 
 * UNIST, Ulsan, Republic of Korea (2019) 
@@ -25,7 +25,7 @@ Education
   * (2nd Major) Department of Nuclear Science and Engineering, Bachelor of Nuclear Science and Engineering
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Experience
+Experience{: .align-center}
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -37,7 +37,7 @@ Experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
+Skills{: .align-center}
 ======
 * python, c++, c#, 
 * MySQL
