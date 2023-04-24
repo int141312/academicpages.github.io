@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Reseach Interests
+Research Interests
 ======
 * Deep Learning
 * Human-AI interaction
@@ -20,8 +20,9 @@ Reseach Interests
 Education
 ======
 * GIST, Gwangju, Republic of Korea (2023-present) 
-* Ulsan National Institute of Science and Technology (UNIST), Ulsan, Republic of Korea (2019)
-  Department of Natural Science, Bachelor of Science in Physics
+* UNIST, Ulsan, Republic of Korea (2019) 
+  * (1st Major) Department of Natural Science, Bachelor of Science in Physics
+  * (2nd Major) Department of Nuclear Science and Engineering, Bachelor of Nuclear Science and Engineering
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Experience
