@@ -1,6 +1,6 @@
 ---
-permalink: /terms/
-title: "Terms and Privacy Policy"
+permalink: /experiences/
+title: "Experiences"
 modified: 2016-06-06
 ---
 
