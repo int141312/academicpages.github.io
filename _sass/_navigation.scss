@@ -11,8 +11,8 @@
   @include clearfix;
   margin-top: 0;
   margin-bottom: 0;
-  padding-left: 2em;
-  padding-right: 2em;
+  padding-left: 1em;
+  padding-right: 1em;
   font-family: $sans-serif;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
@@ -75,8 +75,8 @@
     margin-left: -1px;
 
     a {
-      margin-bottom: 0.25em;
-      padding: 0.5em 1em;
+      margin-bottom: 0.1em;
+      padding: 0.1em 0.1em;
       font-family: $sans-serif;
       font-size: 14px;
       font-weight: bold;
