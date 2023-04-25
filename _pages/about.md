@@ -38,7 +38,7 @@ Experience
   * ROKAF (2020-2022)
 
 * Additional Education
-  * KIAS-APCTP Statistical Physics Winter School (2020) - ML & Deep Learning
+  * KIAS-APCTP Statistical Physics Winter School (POSTECH) (2020) - ML & Deep Learning
   * Data Youth Campus (Yonsei University) (2022) - Big Data analysis & Deep Learning
 
 
@@ -56,7 +56,7 @@ Education
   * English Training
 
 Skills
-======
+------
 * Python, C++, C# 
 * MySQL
 * 3D modeling: Sketchup
