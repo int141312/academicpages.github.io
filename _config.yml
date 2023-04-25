@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Research BLOG of Ji-sung"
+title                    : "Jisung Son"
 title_separator          : "-"
-name                     : &name "Jisung-Son"
-description              : &description "Hi, "
+name                     : &name # Jisung Son
+description              : &description "Hi "
 url                      : https://int141312.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -85,7 +85,7 @@ author:
   bio              : "AI graduate student"
   location         : "Gwangju, South Korea"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
