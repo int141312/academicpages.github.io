@@ -59,8 +59,8 @@
 .pagination {
   @include full();
   @include clearfix();
-  margin-top: 1em;
-  padding-top: 1em;
+  margin-top: 0em;
+  padding-top: 0em;
 
   ul {
     margin: 0;
@@ -374,7 +374,7 @@
   color: #fff;
   text-transform: uppercase;
   letter-spacing: 1px;
-  background-color: #000;
+  background-color: $gray;
   border: 1px solid $border-color;
   border-radius: $border-radius;
   box-shadow: $box-shadow;
