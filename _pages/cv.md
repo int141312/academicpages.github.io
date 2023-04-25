@@ -1,11 +1,15 @@
 ---
 layout: archive
-title: "CV"
+title: "Jisung Son"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
+
+======
+
+======
 
 {% include base_path %}
 
@@ -20,12 +24,15 @@ Research Interests
 Education
 ======
 * GIST, Gwangju, Republic of Korea (2023-present)
-  * Master Candidate in AI  
+  * Master Candidate in AI
+======  
 * UNIST, Ulsan, Republic of Korea (2019) 
   * (1st Major) Bachelor of Science in Physics
   * (2nd Major) Bachelor of Nuclear Science and Engineering
+======
 * University of Art in London (2017)
   * English Training
+======
 
 Experience
 ======
@@ -33,11 +40,11 @@ Experience
   * Intern: 3D Data analysis and visualization from heat flux 3D data, UNIST (2019) 
 
 
-* Military Service in ROKAF
-* KIAS-APCTP Statistical Physics Winter School
+* Military Service in ROKAF (2020-2022)
+* KIAS-APCTP Statistical Physics Winter School (2020)
 • ML, Deep Learning (CNN, RNN with MNIST)
 
-* Data Youth Campus (Yonsei University)
+* Data Youth Campus (Yonsei University) (2022)
 • Big Data analysis & Deep Learning
 
 Skills
