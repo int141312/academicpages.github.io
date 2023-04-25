@@ -19,32 +19,33 @@ Research Interests
 
 Education
 ======
-* GIST, Gwangju, Republic of Korea (2023-present) 
+* GIST, Gwangju, Republic of Korea (2023-present)
+  * Master Candidate in AI  
 * UNIST, Ulsan, Republic of Korea (2019) 
-  * (1st Major) Department of Natural Science, Bachelor of Science in Physics
-  * (2nd Major) Department of Nuclear Science and Engineering, Bachelor of Nuclear Science and Engineering
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+  * (1st Major) Bachelor of Science in Physics
+  * (2nd Major) Bachelor of Nuclear Science and Engineering
+* University of Art in London (2017)
+  * English Training
 
 Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* RESEARCH EXPERIENCES
+  * Intern: 3D Data analysis and visualization from heat flux 3D data, UNIST (2019) 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+
+* Military Service in ROKAF
+* KIAS-APCTP Statistical Physics Winter School
+• ML, Deep Learning (CNN, RNN with MNIST)
+
+* Data Youth Campus (Yonsei University)
+• Big Data analysis & Deep Learning
+
 Skills
 ======
-* python, c++, c#, 
+* Python, c++, c# 
 * MySQL
-  * Sub-skill 2.1
-  * 
 * 3D modeling: Sketchup
-* Unity
+* Unity, Unreal Engine
 
 
 Publications
