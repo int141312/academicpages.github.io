@@ -1,15 +1,16 @@
 ---
 permalink: /
-title: "Jisung Son"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+# Jisung Son
 **E-mali:** jisung9973@gm.gist.ac.kr
 
-![alt text](https://github.com/int141312/int141312.github.io/blob/gh-pages/images/profile.png?raw=true){: width="300" height="300"} I am a Master candidate in AI at GIST 
+![alt text](https://github.com/int141312/int141312.github.io/blob/gh-pages/images/profile.png?raw=true){: width="250" height="250"} I am a Master candidate in AI at GIST. My research  
 
 Deep Learning, Human-AI interaction, HCI, Data Science, XR
 
