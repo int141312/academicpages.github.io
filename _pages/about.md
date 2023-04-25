@@ -21,14 +21,48 @@ Research
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a tempor mi. In pellentesque semper elit sit amet condimentum. Sed ultrices nisl sit amet lectus viverra imperdiet. Mauris rhoncus felis leo, et scelerisque mi tincidunt a. Phasellus pulvinar fringilla libero, ut tincidunt eros euismod in. Integer suscipit justo enim, non maximus nulla egestas sed. Praesent lobortis purus vitae auctor accumsan. Pellentesque cursus sapien nec leo porta dapibus. Duis aliquam libero nec sem rhoncus ornare. Proin malesuada dolor purus. Nunc vestibulum molestie neque, ut ornare arcu commodo et. Integer quis tempus ipsum. Cras aliquet facilisis dolor, in fringilla mauris hendrerit quis. Sed massa sapien, auctor in fringilla suscipit, ultrices vel lectus. Pellentesque lacinia vestibulum est sit amet lobortis.
 
+
+
 Experience
 ------
 
-Vivamus scelerisque nunc diam, et eleifend tortor rutrum sit amet. Interdum et malesuada fames ac ante ipsum primis in faucibus. Proin id auctor tellus. Vestibulum sagittis fringilla mauris, laoreet egestas erat tristique tincidunt. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Cras eleifend scelerisque quam ac euismod. Nam sagittis libero at molestie euismod. Pellentesque nisl orci, finibus vel egestas ac, blandit vitae dui. Curabitur tellus velit, dapibus sit amet feugiat sit amet, commodo eget mi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque egestas nulla in mi bibendum convallis. Vivamus fringilla orci ante. Ut vitae commodo ex. Maecenas consequat fringilla sem, a maximus eros efficitur ut.
+* Teaching
+  * General PhysicsⅠat UNIST (spring 2018) 
+  * General Physics Ⅱ, Calculus Ⅱat UNIST (fall 2018) 
+ 
+* Research intern
+  * UNIST (2019) - 3D Data analysis and visualization from heat flux 3D data
+  * GIST (2023) - implementation of badminton coaching system in VR 
 
-Site-wide configuration
+* Military Service
+  * ROKAF (2020-2022)
+
+* Additional Education
+  * KIAS-APCTP Statistical Physics Winter School (2020) - ML & Deep Learning
+  * Data Youth Campus (Yonsei University) (2022) - Big Data analysis & Deep Learning
+
+
+Education
 ------
-Suspendisse in sem ut arcu pretium porttitor in nec ante. Nunc nec eros in risus efficitur sollicitudin a et dui. Praesent nec velit finibus, fermentum dolor euismod, varius lectus. Phasellus hendrerit non elit ut ultricies. Curabitur lacinia enim non venenatis rhoncus. Curabitur sagittis enim ac est tristique, eget condimentum metus iaculis. Integer vestibulum sapien neque, sit amet ultrices justo facilisis sit amet. Donec in magna a risus tincidunt gravida. Sed tortor enim, aliquam elementum interdum quis, euismod eu eros. Nullam nec massa ac massa sollicitudin blandit.
+
+* GIST, Gwangju, Republic of Korea (2023-present)
+  * Master Candidate in AI
+
+* UNIST, Ulsan, Republic of Korea (2019) 
+  * (1st Major) Bachelor of Science in Physics
+  * (2nd Major) Bachelor of Nuclear Science and Engineering
+
+* University of Art in London (2017)
+  * English Training
+
+Skills
+======
+* Python, C++, C# 
+* MySQL
+* 3D modeling: Sketchup
+* Unity, Unreal Engine
+
+
 
 Create content & metadata
 ------
