@@ -9,9 +9,7 @@ redirect_from:
 ---
 **E-mali:** jisung9973@gm.gist.ac.kr
 
-![alt text](https://github.com/int141312/int141312.github.io/blob/gh-pages/images/profile.png?raw=true){: width="300" height="300"}
-
-I am a Master candidate in AI at GIST 
+![alt text](https://github.com/int141312/int141312.github.io/blob/gh-pages/images/profile.png?raw=true){: width="300" height="300"} I am a Master candidate in AI at GIST 
 
 Deep Learning, Human-AI interaction, HCI, Data Science, XR
 
