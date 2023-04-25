@@ -10,7 +10,7 @@ locale                   : "ko-KR"
 title                    : "Jisung Son"
 title_separator          : "-"
 name                     : &name # Jisung Son
-description              : &description "Hi "
+description              : &description "Hi"
 url                      : https://int141312.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -78,6 +78,7 @@ analytics:
     tracking_id          :
 
 
+<!--
 # Site Author
 author:
   name             : "Ji-sung Son"
@@ -115,6 +116,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+-->
 
 
 # Reading Files
