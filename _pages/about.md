@@ -12,7 +12,7 @@ redirect_from:
 ![alt text](https://github.com/int141312/int141312.github.io/blob/gh-pages/images/profile.png?raw=true){: width="200" height="200"}{: .align-left} 
 # Jisung Son
 **E-mali:** jisung9973@gm.gist.ac.kr
-I am a Master candidate in AI at GIST. I'm interested in Deep Learning, Human-AI interaction, HCI, Data Science, XR. Nullam a pellentesque tortor. Aliquam imperdiet elementum rutrum. Nullam id eros ornare, lobortis orci nec, facilisis eros. Vestibulum consectetur malesuada nisl id iaculis. Integer sollicitudin volutpat diam, id molestie nunc egestas interdum. Phasellus suscipit sodales dolor eget faucibus. Maecenas nec vestibulum purus, et varius lorem.  
+I am a Master candidate in AI at GIST. I'm interested in Deep Learning architecture Analysis, Data Science, Theories & Neural Networks related to Computer Graphics. Nullam a pellentesque tortor. Aliquam imperdiet elementum rutrum. Nullam id eros ornare, lobortis orci nec, facilisis eros. Vestibulum consectetur malesuada nisl id iaculis. Integer sollicitudin volutpat diam, id molestie nunc egestas interdum. Phasellus suscipit sodales dolor eget faucibus. Maecenas nec vestibulum purus, et varius lorem. Vestibulum consectetur malesuada nisl id iaculis. Integer sollicitudin volutpat diam, id molestie nunc egestas interdum. Phasellus suscipit sodales dolor eget faucibus. Maecenas nec vestibulum purus, et varius lorem.  
 
 
 
@@ -57,10 +57,9 @@ Education
 
 Skills
 ------
-* Python, C++, C# 
-* MySQL
-* 3D modeling: Sketchup
-* Unity, Unreal Engine
+* Python, C++, C#: PyTorch, Matplotlib, 
+* DBMS: MySQL
+* 3D modeling: Unreal Engine, Unity, Sketchup
 
 
 
