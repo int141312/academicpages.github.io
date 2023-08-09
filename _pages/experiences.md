@@ -1,7 +1,7 @@
 ---
 permalink: /experiences/
 title: "Experiences"
-modified: 
+modified: 2023-08-09
 ---
 
 {% include base_path %}
@@ -26,3 +26,6 @@ Reinforcement learning is commonly applied to learn optimal decision-making in s
 
 
 
+
+### Google Analytics
+Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read Google Analytics Privacy Policy.
