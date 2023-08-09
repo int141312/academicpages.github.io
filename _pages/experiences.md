@@ -8,12 +8,14 @@ modified:
 {% include toc %}
 
 ## Life philosophy
+
 ### Let's do something I'm passionate about.
 No matter what you do, there will always come a time when it's hard and you feel like giving up. To get through those moments, you need to do something you love and are passionate about. This is the secret to success and how I live my life. 
 
 
 
 ## Projects
+
 ### Development and Training of Reinforcement Learning Environments with Dynamic Terrain Considerations: A Case Study on Robot Vacuum Cleaner (2023. 03 ~2023. 06)
 * Language: Python
 
