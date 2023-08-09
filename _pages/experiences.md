@@ -13,7 +13,16 @@ The privacy of my visitors is extremely important. This Privacy Policy outlines 
 
 First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
 
-### Log Files
+
+## Projects
+
+### Development and Training of Reinforcement Learning Environments with Dynamic Terrain Considerations: A Case Study on Robot Vacuum Cleaner (2023. 03 ~2023. 06)
+* Language: Python
+
+Reinforcement learning is commonly applied to learn optimal decision-making in stationary environments. However, in real-world scenarios, stationary environments are limited, and thus, the use of reinforcement learning in machine intelligence applications is limited. In the case of robot vacuum cleaners, companies typically employ simple algorithms or basic machine learning techniques to determine the robot’s movement path. These approaches fail to address the issue of adapting to environmental changes that occur during the cleaning process. We aim to develop a reinforcement learning environment that can be used to enhance the efficiency of robot vacuum cleaners and use the environment to train a robot vacuum cleaner agent. We created a dynamic grid-world-based learning environment that incorporates potential changes in the real world. We trained a robot vacuum cleaner to navigate the room efficiently and compared its performance with traditional algorithm-based approaches.
+
+<iframe width="956" height="538" src="https://https://youtu.be/3AfjKQNlUwY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
 
