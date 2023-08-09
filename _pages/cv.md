@@ -14,10 +14,8 @@ redirect_from:
 Research Interests
 ======
 * Deep Learning
-* Human-AI interaction
-* HCI
 * Data Science
-* XR
+* Computer Graphics
 
 Education
 ======
@@ -53,8 +51,8 @@ Skills
 ======
 * Python, c++, c# 
 * MySQL
-* 3D modeling: Sketchup
-* Unity, Unreal Engine
+* 3D modeling: Unity, Unreal Engine, Sketchup
+
 
 
 Publications
