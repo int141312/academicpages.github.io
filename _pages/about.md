@@ -13,6 +13,7 @@ redirect_from:
 
 ## Jisung Son
 
+
 I'm interested in Deep Learning, Representation Learning, Information Theory, Diffusion models. Nullam a pellentesque tortor. Aliquam imperdiet elementum rutrum. Nullam id eros ornare, lobortis orci nec, facilisis eros. Vestibulum consectetur malesuada nisl id iaculis. Integer sollicitudin volutpat diam, id molestie nunc egestas interdum. Phasellus suscipit sodales dolor eget faucibus. Maecenas nec vestibulum purus, et varius lorem. Vestibulum consectetur malesuada nisl id iaculis.   
 
 
@@ -27,23 +28,23 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a tempor m
 Experience
 ------
 
-* Teaching
-  * General PhysicsⅠat UNIST (spring 2018) 
-  * General Physics Ⅱ, Calculus Ⅱat UNIST (fall 2018) 
+## Teaching
+* General PhysicsⅠat UNIST (spring 2018) 
+* General Physics Ⅱ, Calculus Ⅱat UNIST (fall 2018) 
  
-* Research intern
-  * UNIST (2019)
-  * GIST (2023)
+## Research intern
+* UNIST (2019)
+* GIST (2023)
 
-* Military Service
-  * ROKAF (2020-2022)
+## Military Service
+* ROKAF (2020-2022)
 
-* Additional Education
-  * KIAS-APCTP Statistical Physics Winter School (POSTECH) (2020) - ML & Deep Learning
-  * Data Youth Campus (Yonsei University) (2022) - Big Data analysis & Deep Learning
+## Additional Education
+* KIAS-APCTP Statistical Physics Winter School (POSTECH) (2020) - ML & Deep Learning
+* Data Youth Campus (Yonsei University) (2022) - Big Data analysis & Deep Learning
 
-* YouTube Activity
-  * Deep Learning Review
+## YouTube Activity
+* Deep Learning Review
 
 Education
 ------
