@@ -2,10 +2,14 @@
 main:
     
   - title: "Research"
-    url: /researchs/
+    url: /about/[Research](Research)
         
   - title: "Experience"
     url: /experiences/
+        
+  - title: "Repository"
+    url: "https://github.com/int141312?tab=repositories"
+  
     
   - title: "CV"
     url: "https://www.notion.so/CV-532a3a4924cd47449c398a5f8e4974c0"
