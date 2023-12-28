@@ -4,6 +4,7 @@ title: "Experiences"
 modified: 
 ---
 
+@include full();
 
 ## Life philosophy
 
