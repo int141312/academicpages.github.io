@@ -2,7 +2,7 @@
 main:
     
   - title: "Research"
-    url: /about/[Research](Research)
+    url: /about/ # Research
         
   - title: "Experience"
     url: /experiences/
