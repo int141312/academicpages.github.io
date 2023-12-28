@@ -83,7 +83,7 @@
       line-height: 10;
       text-align: center;
       text-decoration: none;
-      color: mix(#fff, $gray, 25%);
+      color: #000; // 기본값은 mix(#fff, $gray, 25%)
       border: 1px solid $light-gray;
       border-radius: 0;
 
@@ -92,8 +92,8 @@
       }
 
       &.current {
-        color: #fff;
-        background: $primary-color;
+        color: mix(#fff, $gray, 25%); // 기본값 #fff;
+        background: mix(#fff, $gray, 25%); // 기본값은 $primary-color;
       }
 
       &.disabled {
