@@ -10,11 +10,11 @@ $doc-font-size              : 11;
 
 /* paragraph indention */
 $paragraph-indent           : false; // true, false (default)
-$indent-var                 : 1.3em;
+$indent-var                 : 1.3em; // 변수의 들여쓰기
 
 /* system typefaces */
 $serif                      : Georgia, Times, serif;
-$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Lora", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
@@ -121,7 +121,7 @@ $x-large                    : 1280px !default;
    ========================================================================== */
 
 /*
-이 부분은 논문의 여백을 결정하는 부분 
+이 부분은 본문의 여백을 결정하는 부분 
 */
 
 $right-sidebar-width-narrow : 100px;
