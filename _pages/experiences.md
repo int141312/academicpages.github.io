@@ -5,10 +5,6 @@ modified:
 ---
 
 
-#{% include base_path %}
-#{% include toc %}
-
-
 ## Life philosophy
 
 ### Let's do something I'm passionate about.
