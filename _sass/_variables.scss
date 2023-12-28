@@ -6,7 +6,7 @@
    Typography
    ========================================================================== */
 
-$doc-font-size              : 10;
+$doc-font-size              : 11;
 
 /* paragraph indention */
 $paragraph-indent           : false; // true, false (default)
@@ -120,9 +120,13 @@ $x-large                    : 1280px !default;
    Grid
    ========================================================================== */
 
-$right-sidebar-width-narrow : 0px;
-$right-sidebar-width        : 0px;
-$right-sidebar-width-wide   : 0px;
+/*
+이 부분은 논문의 여백을 결정하는 부분 
+*/
+
+$right-sidebar-width-narrow : 100px;
+$right-sidebar-width        : 100px;
+$right-sidebar-width-wide   : 100px;
 
 $susy: (
   columns: 12,
