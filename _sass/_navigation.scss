@@ -319,7 +319,7 @@
   font-size: 1.25rem;
 
   ul {
-    margin-bottom: 1em;
+    margin-bottom: 0.1em; /* 1에서 0.1로 수정 */
   }
 
   a {
@@ -353,7 +353,7 @@
 .nav__title {
   margin: 0;
   padding: 0.5rem 1rem;
-  font-family: $lora;   /*  font를 lora로 수정  */
+  font-family: $sans-serif;   /*  font를 lora로 수정  */
   font-size: $type-size-5;
   font-weight: bold;
 }
@@ -362,7 +362,7 @@
   display: block;
   margin: 0.5rem 0;
   padding: 0.5rem 0;
-  font-family: $lora;   /*  font를 lora로 수정  */
+  font-family: $sans-serif;   /*  font를 lora로 수정  */
   font-size: $type-size-6;
   font-weight: bold;
   text-transform: uppercase;
@@ -375,7 +375,7 @@
    ========================================================================== */
 
 .toc {
-  font-family: $lora;   /*  font를 lora로 수정  */
+  font-family: $sans-serif;   /*  font를 lora로 수정  */
   color: #fff;
   text-transform: uppercase;
   letter-spacing: 1px;
