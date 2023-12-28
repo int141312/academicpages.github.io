@@ -4,8 +4,10 @@ title: "Experiences"
 modified: 
 ---
 
+/*
 {% include base_path %}
 {% include toc %}
+*/
 
 ## Life philosophy
 
