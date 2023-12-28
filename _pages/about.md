@@ -29,11 +29,12 @@ Experience
 ------
 
 ### Teaching
-* General PhysicsⅠat UNIST (spring 2018) 
-* General Physics Ⅱ, Calculus Ⅱat UNIST (fall 2018) 
+* General PhysicsⅠ, UNIST (spring 2018) 
+* General Physics Ⅱ, UNIST (fall 2018)
+* Calculus Ⅱ, UNIST (fall 2018)
  
 ### Research intern
-* UNIST (2019)
+* UNIST (2018-2019)
 * GIST (2023)
 
 ### Military Service
@@ -50,22 +51,15 @@ Education
 ------
 
 * GIST, Gwangju, Republic of Korea (2023-2025)
-  * Master Candidate in AI
+  M.S in AI
 
-* UNIST, Ulsan, Republic of Korea (2019) 
-  * (1st Major) Bachelor of Science in Physics
-  * (2nd Major) Bachelor of Nuclear Science and Engineering
+* UNIST, Ulsan, Republic of Korea (2014-2019) 
+  B.S in Physics, minor in Nuclear Science and Engineering
 
 * University of Art in London (2017)
   * English Training
 
-<div style="width: 100%; margin: 0;">
-  {Skills
-------
-* Python, C++, C#: PyTorch, Matplotlib, 
-* DBMS: MySQL
-* 3D modeling: Unreal Engine, Unity, Sketchup}
-</div>
+
 
 Skills
 ------
