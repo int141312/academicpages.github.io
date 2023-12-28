@@ -10,12 +10,13 @@ redirect_from:
 
 
 ![alt text](https://github.com/int141312/int141312.github.io/blob/gh-pages/images/profile.png?raw=true){: width="200" height="200"}{: .align-left} 
+
 # Jisung Son
-**E-mali:** jisung9973@gm.gist.ac.kr
 
-I am a Master candidate in AI at GIST. I'm interested in Deep Learning, Representation Learning, Information Theory, Diffusion models. Nullam a pellentesque tortor. Aliquam imperdiet elementum rutrum. Nullam id eros ornare, lobortis orci nec, facilisis eros. Vestibulum consectetur malesuada nisl id iaculis. Integer sollicitudin volutpat diam, id molestie nunc egestas interdum. Phasellus suscipit sodales dolor eget faucibus. Maecenas nec vestibulum purus, et varius lorem. Vestibulum consectetur malesuada nisl id iaculis.   
+I'm interested in Deep Learning, Representation Learning, Information Theory, Diffusion models. Nullam a pellentesque tortor. Aliquam imperdiet elementum rutrum. Nullam id eros ornare, lobortis orci nec, facilisis eros. Vestibulum consectetur malesuada nisl id iaculis. Integer sollicitudin volutpat diam, id molestie nunc egestas interdum. Phasellus suscipit sodales dolor eget faucibus. Maecenas nec vestibulum purus, et varius lorem. Vestibulum consectetur malesuada nisl id iaculis.   
 
 
+# Research
 
 Research
 ------
@@ -23,6 +24,7 @@ Research
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a tempor mi. In pellentesque semper elit sit amet condimentum. Sed ultrices nisl sit amet lectus viverra imperdiet. Mauris rhoncus felis leo, et scelerisque mi tincidunt a. Phasellus pulvinar fringilla libero, ut tincidunt eros euismod in. Integer suscipit justo enim, non maximus nulla egestas sed. Praesent lobortis purus vitae auctor accumsan. Pellentesque cursus sapien nec leo porta dapibus. Duis aliquam libero nec sem rhoncus ornare. Proin malesuada dolor purus. Nunc vestibulum molestie neque, ut ornare arcu commodo et. Integer quis tempus ipsum. Cras aliquet facilisis dolor, in fringilla mauris hendrerit quis. Sed massa sapien, auctor in fringilla suscipit, ultrices vel lectus. Pellentesque lacinia vestibulum est sit amet lobortis.
 
 
+# Experience
 
 Experience
 ------
@@ -32,8 +34,8 @@ Experience
   * General Physics Ⅱ, Calculus Ⅱat UNIST (fall 2018) 
  
 * Research intern
-  * UNIST (2019) - 3D Data analysis and visualization from heat flux 3D data
-  * GIST (2023) - implementation of badminton coaching system in VR 
+  * UNIST (2019)
+  * GIST (2023)
 
 * Military Service
   * ROKAF (2020-2022)
@@ -46,7 +48,7 @@ Experience
 Education
 ------
 
-* GIST, Gwangju, Republic of Korea (2023-present)
+* GIST, Gwangju, Republic of Korea (2023-2025)
   * Master Candidate in AI
 
 * UNIST, Ulsan, Republic of Korea (2019) 
