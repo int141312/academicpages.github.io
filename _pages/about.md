@@ -11,21 +11,19 @@ redirect_from:
 
 ![alt text](https://github.com/int141312/int141312.github.io/blob/gh-pages/images/profile.png?raw=true){: width="200" height="200"}{: .align-left} 
 
-# Jisung Son
+## Jisung Son
 
 I'm interested in Deep Learning, Representation Learning, Information Theory, Diffusion models. Nullam a pellentesque tortor. Aliquam imperdiet elementum rutrum. Nullam id eros ornare, lobortis orci nec, facilisis eros. Vestibulum consectetur malesuada nisl id iaculis. Integer sollicitudin volutpat diam, id molestie nunc egestas interdum. Phasellus suscipit sodales dolor eget faucibus. Maecenas nec vestibulum purus, et varius lorem. Vestibulum consectetur malesuada nisl id iaculis.   
 
 
-# Research
-
+// # Research
 Research
 ------
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a tempor mi. In pellentesque semper elit sit amet condimentum. Sed ultrices nisl sit amet lectus viverra imperdiet. Mauris rhoncus felis leo, et scelerisque mi tincidunt a. Phasellus pulvinar fringilla libero, ut tincidunt eros euismod in. Integer suscipit justo enim, non maximus nulla egestas sed. Praesent lobortis purus vitae auctor accumsan. Pellentesque cursus sapien nec leo porta dapibus. Duis aliquam libero nec sem rhoncus ornare. Proin malesuada dolor purus. Nunc vestibulum molestie neque, ut ornare arcu commodo et. Integer quis tempus ipsum. Cras aliquet facilisis dolor, in fringilla mauris hendrerit quis. Sed massa sapien, auctor in fringilla suscipit, ultrices vel lectus. Pellentesque lacinia vestibulum est sit amet lobortis.
 
 
-# Experience
-
+// # Experience
 Experience
 ------
 
@@ -44,6 +42,8 @@ Experience
   * KIAS-APCTP Statistical Physics Winter School (POSTECH) (2020) - ML & Deep Learning
   * Data Youth Campus (Yonsei University) (2022) - Big Data analysis & Deep Learning
 
+* YouTube Activity
+  * Deep Learning Review
 
 Education
 ------
@@ -66,9 +66,6 @@ Skills
 
 
 
-Create content & metadata
-------
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce id dapibus magna. Pellentesque nec pellentesque mi. In commodo erat id lacus dictum, ut congue metus dictum. Nulla a risus non orci sagittis bibendum vel bibendum massa. Cras sit amet imperdiet metus, vel luctus sem. Nullam enim erat, tempor sed odio sed, dignissim consectetur purus. Cras vestibulum nibh at commodo lobortis. Nam tincidunt magna sodales nunc tempus volutpat. Cras interdum magna sed justo venenatis placerat. Morbi dictum urna justo, a gravida ante congue vitae. Nulla suscipit lacus in lorem condimentum convallis. Cras elementum ex in diam sodales, in placerat justo sagittis. Sed cursus justo ut aliquet volutpat.
 
 
 
