@@ -342,9 +342,11 @@
     background: $primary-color;
     border-radius: $border-radius;
 
+   /*
     &:hover {
       color: #fff;
     }
+     */
   }
 }
 
@@ -373,7 +375,7 @@
    ========================================================================== */
 
 .toc {
-  font-family: $sans-serif-narrow;
+  font-family: $lora;   /*  font를 lora로 수정  */
   color: #fff;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -401,16 +403,18 @@
   a {
     display: block;
     padding: 0.5rem 1rem;
-    color: $gray;
+    color: $black;
     font-size: $type-size-7;
     font-weight: bold;
     line-height: 0;
     border-bottom: 1px solid $border-color;
 
+    /* 
     &:hover {
       color: #000;
       background: $lighter-gray;
     }
+     */
   }
 
   > li:last-child {
