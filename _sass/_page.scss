@@ -58,7 +58,7 @@ article.page {
 
   h2 {
     padding-bottom: 0.3em;
-    // border-bottom: 1px solid $border-color;
+    border-bottom: 1px solid $border-color; // 이 부분 수정시 경계선의 색을 바꿀 수 있음
   }
 
   p, li, dl {
