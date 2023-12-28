@@ -9,10 +9,10 @@ html {
   box-sizing: border-box;
   background-color: $background-color;
    /* 글씨 크기 조정하기 */
-  font-size: 13px;
+  font-size: 12px;
 
   @include breakpoint($medium) {
-    font-size: 25px;
+    font-size: 20px;
   }
 
   -webkit-text-size-adjust: 100%;
