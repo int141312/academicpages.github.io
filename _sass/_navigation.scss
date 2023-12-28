@@ -170,6 +170,7 @@
 
 /*
    Priority plus navigation
+이 부분은 서브 메뉴를 만들 때 사용하는 것으로 추정
    ========================================================================== */
 
 .greedy-nav {
@@ -311,6 +312,7 @@
 
 /*
    Navigation list
+이 부분이 navigation을 제대로 수정하는 부분으로 추정
    ========================================================================== */
 
 .nav__list {
@@ -324,10 +326,11 @@
     display: block;
     padding: 0.125em 0;
     color: inherit;
-
+   /*
     &:hover {
       text-decoration: underline;
     }
+     */
   }
 
   .active {
@@ -348,7 +351,7 @@
 .nav__title {
   margin: 0;
   padding: 0.5rem 1rem;
-  font-family: $sans-serif-narrow;
+  font-family: $lora;   /*  font를 lora로 수정  */
   font-size: $type-size-5;
   font-weight: bold;
 }
@@ -357,7 +360,7 @@
   display: block;
   margin: 0.5rem 0;
   padding: 0.5rem 0;
-  font-family: $sans-serif-narrow;
+  font-family: $lora;   /*  font를 lora로 수정  */
   font-size: $type-size-6;
   font-weight: bold;
   text-transform: uppercase;
