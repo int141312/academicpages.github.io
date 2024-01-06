@@ -22,11 +22,11 @@ article.page {
 }
 
 .page {
-  
+  width: calc(100% - #{$right-sidebar-width-narrow}); // 구글링으로 찾아서 test 해봄
   @include breakpoint($large) {
-    @include span(10 of 12 last);
+    @include span(12 of 12 last); // 10에서 12로 조정
     @include prefix(0.5 of 12);
-    @include suffix(2 of 12);
+    @include suffix(0.5 of 12); // 2에서 0.5로 조정
   }
 
   .page__inner-wrap {
