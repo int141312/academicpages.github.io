@@ -171,17 +171,18 @@
 /*
    Priority plus navigation
 이 부분은 서브 메뉴를 만들 때 사용하는 것으로 추정
+실제 test 결과 가장 유의미하게 변경함
    ========================================================================== */
 
 .greedy-nav {
   position: relative;
-  min-width: 250px;
+  min-width: 300px; // 기본값 250px;
   background:  $light-gray; // 기본값 $background-color;
 
   a {
     display: block;
-    margin: 0 0.5rem; //원래값 0 1rem;
-    padding: 0.5rem 0; //원래값 0.5rem 0;
+    margin: 0 0.5rem; //원래값 0 1rem; -> navigation 조작에 유의미
+    padding: 0.5rem 0; //원래값 0.5rem 0; -> navigation 조작에 유의미
     color: $masthead-link-color;
     text-decoration: none;
 
