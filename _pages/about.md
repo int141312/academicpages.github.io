@@ -8,6 +8,16 @@ redirect_from:
   - /about.html
 ---
 
+<div class=pull-left>
+![alt text](https://github.com/int141312/int141312.github.io/blob/gh-pages/images/profile.png?raw=true){: width="200" height="200"}{: .align-left}   
+
+### Jisung Son
+</div>
+<div class=pull-right>
+I'm interested in Deep Learning, Representation Learning, Information Theory, Diffusion models. Nullam a pellentesque tortor. Aliquam imperdiet elementum rutrum. Nullam id eros ornare, lobortis orci nec, facilisis eros. Vestibulum consectetur malesuada nisl id iaculis. Integer sollicitudin volutpat diam, id molestie nunc egestas interdum. Phasellus suscipit sodales dolor eget faucibus. Maecenas nec vestibulum purus, et varius lorem. Vestibulum consectetur malesuada nisl id iaculis.
+</div>
+
+
 
 ![alt text](https://github.com/int141312/int141312.github.io/blob/gh-pages/images/profile.png?raw=true){: width="200" height="200"}{: .align-left} 
 
@@ -21,7 +31,11 @@ I'm interested in Deep Learning, Representation Learning, Information Theory, Di
 Research
 ------
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a tempor mi. In pellentesque semper elit sit amet condimentum. Sed ultrices nisl sit amet lectus viverra imperdiet. Mauris rhoncus felis leo, et scelerisque mi tincidunt a. Phasellus pulvinar fringilla libero, ut tincidunt eros euismod in. Integer suscipit justo enim, non maximus nulla egestas sed. Praesent lobortis purus vitae auctor accumsan. Pellentesque cursus sapien nec leo porta dapibus. Duis aliquam libero nec sem rhoncus ornare. Proin malesuada dolor purus. Nunc vestibulum molestie neque, ut ornare arcu commodo et. Integer quis tempus ipsum. Cras aliquet facilisis dolor, in fringilla mauris hendrerit quis. Sed massa sapien, auctor in fringilla suscipit, ultrices vel lectus. Pellentesque lacinia vestibulum est sit amet lobortis.
+### Interests
+* Deep Learning
+* Representation Learning
+* Diffusion models
+* Information Theory
 
 
 
