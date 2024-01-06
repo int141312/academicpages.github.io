@@ -322,13 +322,13 @@
   font-size: 1.25rem;
 
   ul {
-    margin-bottom: 0.1em; /* 1에서 0.1로 수정 */
+    margin-bottom: 0em;  //1에서 0로 수정
   }
 
   a {
     display: block;
     padding: 0.125em 0;
-    color: $light-gray; // 기본값 inherit;
+    color: $dirt-color; // 기본값 inherit;
    /*
     &:hover {
       text-decoration: underline;
