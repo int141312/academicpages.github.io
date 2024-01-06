@@ -8,6 +8,16 @@ redirect_from:
   - /about.html
 ---
 
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
 
 
 ![alt text](https://github.com/int141312/int141312.github.io/blob/gh-pages/images/profile.png?raw=true){: width="200" height="200"}{: .align-left} 
@@ -28,6 +38,12 @@ Research
 * Diffusion models
 * Information Theory
 
+### Education
+* GIST, Gwangju, Republic of Korea (2023-2025)
+  M.S in AI
+* UNIST, Ulsan, Republic of Korea (2014-2019) 
+  B.S in Physics, minor in Nuclear Science and Engineering
+* University of Art in London (2017)
 
 
 Experience
@@ -52,17 +68,7 @@ Experience
 ### YouTube Activity
 * Deep Learning Review
 
-Education
-------
 
-* GIST, Gwangju, Republic of Korea (2023-2025)
-  M.S in AI
-
-* UNIST, Ulsan, Republic of Korea (2014-2019) 
-  B.S in Physics, minor in Nuclear Science and Engineering
-
-* University of Art in London (2017)
-  * English Training
 
 
 
