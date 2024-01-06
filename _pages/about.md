@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -22,7 +22,7 @@ redirect_from:
 
         .column {
             width: 48%; /* 조절 가능 */
-            border: 1px solid #ddd;
+            border: 1px solid #fff;
             padding: 10px;
             box-sizing: border-box;
         }
@@ -65,9 +65,9 @@ Research
 * Information Theory
 
 ### Education
-* GIST, Gwangju, Republic of Korea (2023-2025)
-  M.S in AI
-* UNIST, Ulsan, Republic of Korea (2014-2019) 
+* Gwangju Institute of Science and Technology (2023-2025)
+  M.S in Artificial Intelligence
+* Ulsan National Institute of Science and Technology (2014-2019) 
   B.S in Physics, minor in Nuclear Science and Engineering
 * University of Art in London (2017)
 
