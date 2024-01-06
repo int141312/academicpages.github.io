@@ -180,8 +180,8 @@
 
   a {
     display: block;
-    margin: 0 0; //원래값 0 1rem;
-    padding: 0 0; //원래값 0.5rem 0;
+    margin: 0 0.5rem; //원래값 0 1rem;
+    padding: 0.5rem 0; //원래값 0.5rem 0;
     color: $masthead-link-color;
     text-decoration: none;
 
@@ -194,10 +194,10 @@
     position: absolute;
     height: 100%;
     right: 0;
-    padding: 0 0; //원래값 0 0.5rem;
+    padding: 0 0.5rem; //네이게이션 크기 변경에 유의미할 수 있는 후보
     border: 0;
     outline: none;
-    background-color:  $light-gray; // 기본값 $primary-color;
+    background-color: $primary-color; //test 중
     color: #fff;
     cursor: pointer;
   }
