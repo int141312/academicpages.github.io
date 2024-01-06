@@ -175,6 +175,8 @@
    ========================================================================== */
 
 .greedy-nav {
+  @include full();
+  @include clearfix();
   position: relative;
   min-width: 300px; // 기본값 250px;
   background:  $light-gray; // 기본값 $background-color;
