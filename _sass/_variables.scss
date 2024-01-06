@@ -126,13 +126,13 @@ $x-large                    : 1280px !default;
 이 부분은 본문의 여백을 결정하는 부분 
 */
 
-$right-sidebar-width-narrow : 0px; // 기본값은 200
-$right-sidebar-width        : 0px; // 기본값은 300
-$right-sidebar-width-wide   : 0px; // 기본값을 400
+$right-sidebar-width-narrow : 0; // 기본값은 200px
+$right-sidebar-width        : 0; // 기본값은 300px
+$right-sidebar-width-wide   : 0; // 기본값을 400px
 
 $susy: (
   columns: 12,
-  column-width: 10px, // 기본값 120
+  column-width: 1px, // 기본값 120
   gutters: 1/4,
   math: fluid,
   output: float,
