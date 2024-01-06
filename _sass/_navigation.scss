@@ -179,7 +179,7 @@
   @include clearfix();
   position: relative;
   min-width: 300px; // 기본값 250px;
-  background:  $light-gray; // 기본값 $background-color;
+  background: $dirt-color; // 기본값 $background-color;
 
   a {
     display: block;
