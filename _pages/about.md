@@ -8,16 +8,42 @@ redirect_from:
   - /about.html
 ---
 
-<table border="0">
- <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
- </tr>
- <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
- </tr>
-</table>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Two Columns</title>
+    <style>
+        .columns {
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .column {
+            width: 48%; /* 조절 가능 */
+            border: 1px solid #ddd;
+            padding: 10px;
+            box-sizing: border-box;
+        }
+    </style>
+</head>
+<body>
+
+<div class="columns">
+    <div class="column">
+        <h2>Column 1</h2>
+        <p>This is the content of column 1.</p>
+    </div>
+
+    <div class="column">
+        <h2>Column 2</h2>
+        <p>This is the content of column 2.</p>
+    </div>
+</div>
+
+</body>
+</html>
 
 
 ![alt text](https://github.com/int141312/int141312.github.io/blob/gh-pages/images/profile.png?raw=true){: width="200" height="200"}{: .align-left} 
