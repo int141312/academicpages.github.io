@@ -57,8 +57,6 @@ redirect_from:
 
         h1 { text-align: center; }
 
-        .atag { text-align: center;}
-
         li{ list-style-position: inside; 
             text-indent: -20px;
         }
@@ -76,7 +74,7 @@ redirect_from:
     <div class="column1">
         <p>  <img src="https://github.com/int141312/int141312.github.io/blob/gh-pages/images/profile.png?raw=true">   </p> 
         <h1> Jisung Son </h1>
-        <div class="atag"> <a> jisung9973@gmail.com  </a></div>
+        <a> jisung9973@gmail.com  </a>
     </div>
 
     <div class="column2">
@@ -84,7 +82,7 @@ redirect_from:
         </p>
     <div class="columns">
       <div class="column3">
-        <div class="atag"> <h3> Interests </h3> </div>
+        <h3> Interests </h3>
         <ul class="inside">
           <li> Deep Learning </li>
           <li> Representation Learning </li>
@@ -94,7 +92,7 @@ redirect_from:
       </div>
 
       <div class="column2">
-        <div class="atag"> <h3> Education </h3> </div>
+        <h3> Education </h3>
         <ul class="inside">
           <li> Gwangju Institute of Science and Technology <br> (2023-2025) M.S in Artificial Intelligence  </li>
            
