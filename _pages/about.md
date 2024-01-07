@@ -52,7 +52,7 @@ redirect_from:
         h1 { text-align: center; }
 
         li{ list-style-position: inside; 
-            text-indent: -20px;
+            text-indent: -20.5px;
         }
         
     </style>
@@ -82,11 +82,11 @@ redirect_from:
 
       <div class="column2">
         <h3> Education </h3>
-        <li style> Gwangju Institute of Science and Technology (2023-2025) M.S in Artificial Intelligence  </li>
+        <li> Gwangju Institute of Science and Technology <br> (2023-2025) M.S in Artificial Intelligence  </li>
            
-        <li> Ulsan National Institute of Science and Technology (2014-2019) B.S in Physics, minor in Nuclear Science and Engineering </li> 
+        <li> Ulsan National Institute of Science and Technology <br> (2014-2019) B.S in Physics, minor in Nuclear Science and Engineering </li> 
           
-        <li> University of Art in London (2017) </li>
+        <li> University of Art in London <br> (2017) </li>
         
       </div>
 
