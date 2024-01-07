@@ -65,6 +65,12 @@ redirect_from:
          overflow-y: auto; 
          overflow-x: hidden;
         }
+
+        .page {
+        flex: 1; /* 각각의 페이지가 동일한 공간을 차지하도록 설정 */
+        overflow: hidden; /* 필요에 따라 스크롤을 허용하거나 숨김 */
+        border: none; /* 경계선 추가 (선택사항) */
+        }
         
     </style>
 </head>
@@ -110,20 +116,18 @@ redirect_from:
 </div>
 
 <br>
+  <h1> Research </h1>
 
-<iframe src="https://int141312.github.io/experiences/" 
-    frameborder="0" 
-    marginheight="0" 
-    marginwidth="0" 
-    width="100%" 
-    height="100%" 
-    scrolling="auto" 
-    style="border:none" 
-    width="100%" 
-    height="100%">  
-</iframe>
+<div id="experiences" style="position: relative;" width="100%" height="100%">
+      </div>
 
-  <h1> Experience </h1>
+<div class="page" style='background-color: #ffffff' >
+    <h1>Page 2</h1>
+    <p>This is the content of Page 2.</p>
+</div>
+
+<br>
+
   <h2> Teaching </h2>
     <li> General PhysicsⅠ, UNIST (spring 2018) </li>
     <li> General Physics Ⅱ, UNIST (fall 2018) </li>
