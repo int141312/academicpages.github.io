@@ -20,26 +20,34 @@ redirect_from:
             justify-content: space-between;
         }
 
-        .column {
-            width: 48%; /* 조절 가능 */
-            border: 1px solid #fff;
-            padding: 10px;
-            box-sizing: border-box;
-        }
-
         .column1 {
-            width: 35%; /* 조절 가능 */
+            width: 30%; /* 조절 가능 */
             border: 1px solid #fff;
             padding: 10px;
             box-sizing: border-box;
         }
 
         .column2 {
-            width: 65%; /* 조절 가능 */
+            width: 70%; /* 조절 가능 */
             border: 1px solid #fff;
             padding: 10px;
             box-sizing: border-box;
         }
+
+        .column3 {
+            width: 40%; /* 조절 가능 */
+            border: 1px solid #fff;
+            padding: 10px;
+            box-sizing: border-box;
+        }
+
+        .column4 {
+            width: 60%; /* 조절 가능 */
+            border: 1px solid #fff;
+            padding: 10px;
+            box-sizing: border-box;
+        }
+
 
         h1 { text-align: center; }
     </style>
@@ -51,7 +59,6 @@ redirect_from:
 <div class="columns">
     <div class="column1">
         <p>  <img src="https://github.com/int141312/int141312.github.io/blob/gh-pages/images/profile.png?raw=true">   </p> 
-        <br> 
         <h1> Jisung Son </h1> 
     </div>
 
@@ -61,20 +68,18 @@ redirect_from:
 
     <div class="columns">
 
-      <div class="column1">
+      <div class="column3">
         <h3> Interests </h3>
         <li> Deep Learning </li>
-        <li> Representation Learning </li>
+        <li> Representation <br> Learning </li>
         <li> Diffusion models </li>
         <li> Information Theory </li>
       </div>
 
-      <div class="column2">
+      <div class="column4">
         <h3> Education </h3>
-        <li> Gwangju Institute of Science and Technology (2023-2025) 
-          <ol>
-            <li> M.S in Artificial Intelligence </li>
-          </ol>
+        <li> Gwangju Institute of Science and Technology (2023-2025) <br>
+              M.S in Artificial Intelligence 
         </li>
            
         <li> Ulsan National Institute of Science and Technology (2014-2019) 
