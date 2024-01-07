@@ -1,8 +1,21 @@
 ---
 permalink: /experiences/
-title: "Experiences"
+title: 
 modified: 
 ---
+
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <style>
+            h1{text-align:center;}
+        </style>
+    </head>
+    <body>
+      <h1> Experience </h1>
+    </body>
+</html>
+
 
 
 ## Life philosophy
@@ -23,7 +36,3 @@ Reinforcement learning is commonly applied to learn optimal decision-making in s
 
 
 
-
-
-### Google Analytics
-Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read Google Analytics Privacy Policy.
