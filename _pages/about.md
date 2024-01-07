@@ -44,38 +44,50 @@ redirect_from:
         h1 { text-align: center; }
     </style>
 </head>
+
+
 <body>
 
 <div class="columns">
     <div class="column1">
-        <p>  <img src="https://github.com/int141312/int141312.github.io/blob/gh-pages/images/profile.png?raw=true">     </p> /* 이미지 넣는 구역 */
+        <p>  <img src="https://github.com/int141312/int141312.github.io/blob/gh-pages/images/profile.png?raw=true">   </p> 
         <br> 
         <h1> Jisung Son </h1> 
     </div>
 
     <div class="column2">
-        <p>I'm interested in Deep Learning, Representation Learning, Information Theory, Diffusion models. Nullam a pellentesque tortor. Aliquam imperdiet elementum rutrum. Nullam id eros ornare, lobortis orci nec, facilisis eros. Vestibulum consectetur malesuada nisl id iaculis. Integer sollicitudin volutpat diam, id molestie nunc egestas interdum. Phasellus suscipit sodales dolor eget faucibus. Maecenas nec vestibulum purus, et varius lorem. Vestibulum consectetur malesuada nisl id iaculis.</p>
+        <p>I'm interested in Deep Learning, Representation Learning, Information Theory, Diffusion models. Nullam a pellentesque tortor. Aliquam imperdiet elementum rutrum. Nullam id eros ornare, lobortis orci nec, facilisis eros. Vestibulum consectetur malesuada nisl id iaculis. Integer sollicitudin volutpat diam, id molestie nunc egestas interdum. Phasellus suscipit sodales dolor eget faucibus. Maecenas nec vestibulum purus, et varius lorem. Vestibulum consectetur malesuada nisl id iaculis.
+        </p>
 
-      <div class="column">
-<h3> Interests </h3>
-<li> Deep Learning </li>
-<li> Representation Learning </li>
-<li> Diffusion models </li>
-<li> Information Theory </li>
+    <div class="columns">
 
+      <div class="column1">
+        <h3> Interests </h3>
+        <li> Deep Learning </li>
+        <li> Representation Learning </li>
+        <li> Diffusion models </li>
+        <li> Information Theory </li>
       </div>
 
-
-      <div class="column">
-<h3> Education </h3>
-<li> Gwangju Institute of Science and Technology (2023-2025) </li>
-  M.S in Artificial Intelligence 
-<li> Ulsan National Institute of Science and Technology (2014-2019) </li> 
-  B.S in Physics, minor in Nuclear Science and Engineering
-<li> University of Art in London (2017) </li>
-
+      <div class="column2">
+        <h3> Education </h3>
+        <li> Gwangju Institute of Science and Technology (2023-2025) 
+          <ol>
+            <li> M.S in Artificial Intelligence </li>
+          </ol>
+        </li>
+           
+        <li> Ulsan National Institute of Science and Technology (2014-2019) 
+          <ol>
+            <li> B.S in Physics, minor in Nuclear Science and Engineering </li>
+          </ol>
+        </li> 
+          
+        <li> University of Art in London (2017) </li>
+        
       </div>
 
+    </div>
         
     </div>
 </div>
