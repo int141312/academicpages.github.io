@@ -72,7 +72,6 @@ redirect_from:
     <div class="column2">
         <p>I'm interested in Deep Learning, Representation Learning, Information Theory, Diffusion models. Nullam a pellentesque tortor. Aliquam imperdiet elementum rutrum. Nullam id eros ornare, lobortis orci nec, facilisis eros. Vestibulum consectetur malesuada nisl id iaculis. Integer sollicitudin volutpat diam, id molestie nunc egestas interdum. Phasellus suscipit sodales dolor eget faucibus. Maecenas nec vestibulum purus, et varius lorem. Vestibulum consectetur malesuada nisl id iaculis.
         </p>
-
     <div class="columns">
       <div class="column3">
         <h3> Interests </h3>
@@ -102,7 +101,6 @@ redirect_from:
 </div>
 
 <br>
-<br>
 
   <h1> Experience </h1>
   <h2> Teaching </h2>
@@ -119,6 +117,9 @@ redirect_from:
 
   <h2> YouTube Activity </h2>
     <li> Deep Learning Review </li>
+
+
+<iframe src="https://int141312.github.io/experiences/" title="내용"></iframe>
 
 
 </body>
