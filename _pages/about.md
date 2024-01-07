@@ -51,7 +51,9 @@ redirect_from:
 
         h1 { text-align: center; }
 
-        li{ list-style-position : inside;  /* list-style-position : outside : 기본값 */}
+        li{ list-style-position: inside; 
+            text-indent: -10px;
+        }
         
     </style>
 </head>
@@ -70,7 +72,6 @@ redirect_from:
         </p>
 
     <div class="columns">
-
       <div class="column3">
         <h3> Interests </h3>
         <li> Deep Learning </li>
@@ -81,7 +82,7 @@ redirect_from:
 
       <div class="column2">
         <h3> Education </h3>
-        <li> Gwangju Institute of Science and Technology (2023-2025) M.S in Artificial Intelligence  </li>
+        <li style> Gwangju Institute of Science and Technology (2023-2025) M.S in Artificial Intelligence  </li>
            
         <li> Ulsan National Institute of Science and Technology (2014-2019) B.S in Physics, minor in Nuclear Science and Engineering </li> 
           
@@ -108,7 +109,7 @@ redirect_from:
 </head>
 
 
-<body>
+<body bgcolor='#fffff'>
   <h1> Experience </h1>
   <h2> Teaching </h2>
     <li> General PhysicsⅠ, UNIST (spring 2018) </li>
@@ -132,10 +133,9 @@ redirect_from:
 
 
 
-Skills
-------
-* Python, C++, C#: PyTorch, Matplotlib, 
-* DBMS: MySQL
+<h2> Skills </h2>
+* Python, C++, C#, HTML  
+* Deep Learning Frame work: PyTorch
 * 3D modeling: Unreal Engine, Unity, Sketchup
 
 
