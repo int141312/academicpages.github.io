@@ -52,7 +52,7 @@ redirect_from:
         h1 { text-align: center; }
 
         li{ list-style-position: inside; 
-            text-indent: -10px;
+            text-indent: -20px;
         }
         
     </style>
