@@ -119,7 +119,7 @@ redirect_from:
     <li> Deep Learning Review </li>
 
 
-<iframe src="https://int141312.github.io/experiences/" title="내용"></iframe>
+<iframe src="https://int141312.github.io/experiences/" title="내용" style="border:none" width="100%" height="100%"></iframe>
 
 
 </body>
