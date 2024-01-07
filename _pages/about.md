@@ -48,6 +48,12 @@ redirect_from:
             box-sizing: border-box;
         }
 
+        .column5 {
+            width: 100%; /* 조절 가능 */
+            border: 1px solid #FFFFFF;
+            padding: 10px;
+            box-sizing: border-box;
+        }
 
         h1 { text-align: center; }
 
@@ -109,35 +115,43 @@ redirect_from:
 
 <br>
 
-<div id="experiences" style="position: relative;" width="100%" height="100%">
-      </div>
 
-<div id="research" name="research" class="page" style='background-color: #ffffff' >
+<div id="research" name="research" class="columns" style='background-color: #ffffff' >
     <br>
-    <h1> Research </h1> 
-    <p>Vestibulum consectetur malesuada nisl id iaculis. Integer sollicitudin volutpat diam, id molestie nunc egestas interdum. Phasellus suscipit sodales dolor eget faucibus. Maecenas nec vestibulum purus, et varius lorem. Vestibulum consectetur malesuada nisl id iaculis.Vestibulum consectetur malesuada nisl id iaculis. Integer sollicitudin volutpat diam, id molestie nunc egestas interdum. Phasellus suscipit sodales dolor eget faucibus. Maecenas nec vestibulum purus, et varius lorem. Vestibulum consectetur malesuada nisl id iaculis.Vestibulum consectetur malesuada nisl id iaculis. Integer sollicitudin volutpat diam, id molestie nunc egestas interdum. Phasellus suscipit sodales dolor eget faucibus. Maecenas nec vestibulum purus, et varius lorem. Vestibulum consectetur malesuada nisl id iaculis.Vestibulum consectetur malesuada nisl id iaculis. Integer sollicitudin volutpat diam, id molestie nunc egestas interdum. Phasellus suscipit sodales dolor eget faucibus. Maecenas nec vestibulum purus, et varius lorem. Vestibulum consectetur malesuada nisl id iaculis.Vestibulum consectetur malesuada nisl id iaculis. Integer sollicitudin volutpat diam, id molestie nunc egestas interdum. Phasellus suscipit sodales dolor eget faucibus. Maecenas nec vestibulum purus, et varius lorem. Vestibulum consectetur malesuada nisl id iaculis.Vestibulum consectetur malesuada nisl id iaculis. Integer sollicitudin volutpat diam, id molestie nunc egestas interdum. Phasellus suscipit sodales dolor eget faucibus. Maecenas nec vestibulum purus, et varius lorem. Vestibulum consectetur malesuada nisl id iaculis.Vestibulum consectetur malesuada nisl id iaculis. Integer sollicitudin volutpat diam, id molestie nunc egestas interdum. Phasellus suscipit sodales dolor eget faucibus. Maecenas nec vestibulum purus, et varius lorem. Vestibulum consectetur malesuada nisl id iaculis.</p>
+    <div class="column5">
+      <h1> Research </h1> 
+      <p>Vestibulum consectetur malesuada nisl id iaculis. Integer sollicitudin volutpat diam, id molestie nunc egestas interdum. Phasellus suscipit sodales dolor eget faucibus. Maecenas nec vestibulum purus, et varius lorem. Vestibulum consectetur malesuada nisl id iaculis.Vestibulum consectetur malesuada nisl id iaculis. Integer sollicitudin volutpat diam, id molestie nunc egestas interdum. Phasellus suscipit sodales dolor eget faucibus. Maecenas nec vestibulum purus, et varius lorem. Vestibulum consectetur malesuada nisl id iaculis.Vestibulum consectetur malesuada nisl id iaculis. Integer sollicitudin volutpat diam, id molestie nunc egestas interdum. Phasellus suscipit sodales dolor eget faucibus. Maecenas nec vestibulum purus, et varius lorem. Vestibulum consectetur malesuada nisl id iaculis.Vestibulum consectetur malesuada nisl id iaculis. Integer sollicitudin volutpat diam, id molestie nunc egestas interdum. Phasellus suscipit sodales dolor eget faucibus. Maecenas nec vestibulum purus, et varius lorem. Vestibulum consectetur malesuada nisl id iaculis.Vestibulum consectetur malesuada nisl id iaculis. Integer sollicitudin volutpat diam, id molestie nunc egestas interdum. Phasellus suscipit sodales dolor eget faucibus. Maecenas nec vestibulum purus, et varius lorem. Vestibulum consectetur malesuada nisl id iaculis.Vestibulum consectetur malesuada nisl id iaculis. Integer sollicitudin volutpat diam, id molestie nunc egestas interdum. Phasellus suscipit sodales dolor eget faucibus. Maecenas nec vestibulum purus, et varius lorem. Vestibulum consectetur malesuada nisl id iaculis.Vestibulum consectetur malesuada nisl id iaculis. Integer sollicitudin volutpat diam, id molestie nunc egestas interdum. Phasellus suscipit sodales dolor eget faucibus. Maecenas nec vestibulum purus, et varius lorem. Vestibulum consectetur malesuada nisl id iaculis.</p>
+    </div>
 
 </div>
 
 <br>
 
-<div>
-
-  <h2> Teaching </h2>
+<div id="experience" name="experience" class="columns" style='background-color: #ffffff' >
+  <br>
+  <div class="column5">
+    <h1> Experience </h1>
+    <h2> Teaching </h2>
+    <ul class="inside">
     <li> General PhysicsⅠ, UNIST (spring 2018) </li>
     <li> General Physics Ⅱ, UNIST (fall 2018) </li>
     <li> Calculus Ⅱ, UNIST (fall 2018) </li>
+    </ul>
  
-  <h2> Military Service </h2>
+    <h2> Military Service </h2>
+    <ul class="inside">
     <li> ROKAF (2020-2022) </li>
+    </ul>
 
-  <h2> Additional Education </h2>
+    <h2> Additional Education </h2>
+    <ul class="inside">
     <li> KIAS-APCTP Statistical Physics Winter School (POSTECH) (2020) - ML & Deep Learning </li>
     <li> Data Youth Campus (Yonsei University) (2022) - Big Data analysis & Deep Learning </li>
+    </ul>
 
-  <h2> YouTube Activity </h2>
-    <li> Deep Learning Review </li>
+    <h2> YouTube Activity </h2>
 
+  </div>
 </div>
 
 
