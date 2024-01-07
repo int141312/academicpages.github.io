@@ -331,7 +331,7 @@
 
   a {
     display: block;
-    padding: 0em 0; // 기본 0.125 0
+    padding: 0.125em 0; // 기본 0.125 0
     color: $dirt-color; // 기본값 inherit;
    /*
     &:hover {
@@ -342,9 +342,9 @@
 
   .active {
     @include full();
-    margin-left: 0em; // 기본 -0.5em;
-    padding-left: 0em; //0.5
-    padding-right: 0em; //0.5
+    margin-left: 0.5em; // 기본 -0.5em;
+    padding-left: 0.5em; //0.5
+    padding-right: 0.5em; //0.5
     color: #fff;
     font-weight: bold;
     background:  $dirt-color; // 네비게이션에 있는 box의 색을 변경
