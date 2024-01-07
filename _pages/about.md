@@ -57,14 +57,6 @@ redirect_from:
 
         .inside { list-style-position: inside; }
 
-        iframe 
-        {    
-         display: block; 
-         width: 100%; 
-         border: none; 
-         overflow-y: auto; 
-         overflow-x: hidden;
-        }
 
         .page {
         flex: 1; /* 각각의 페이지가 동일한 공간을 차지하도록 설정 */
@@ -121,8 +113,8 @@ redirect_from:
 <div id="experiences" style="position: relative;" width="100%" height="100%">
       </div>
 
-<div class="page" style='background-color: #ffffff' >
-    <h1>Page 2</h1>
+<div id="research" class="page" style='background-color: #ffffff' >
+    <h1> Research </h1>
     <p>This is the content of Page 2.</p>
 </div>
 
