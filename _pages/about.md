@@ -54,6 +54,8 @@ redirect_from:
         li{ list-style-position: inside; 
             text-indent: -20px;
         }
+
+        .inside { list-style-position: inside; }
         
     </style>
 </head>
@@ -74,19 +76,23 @@ redirect_from:
     <div class="columns">
       <div class="column3">
         <h3> Interests </h3>
-        <li> Deep Learning </li>
-        <li> Representation Learning </li>
-        <li> Diffusion models </li>
-        <li> Information Theory </li>
+        <ul class="inside">
+          <li> Deep Learning </li>
+          <li> Representation Learning </li>
+          <li> Diffusion models </li>
+          <li> Information Theory </li>
+        </ul>
       </div>
 
       <div class="column2">
         <h3> Education </h3>
-        <li> Gwangju Institute of Science and Technology <br> (2023-2025) M.S in Artificial Intelligence  </li>
+        <ul class="inside">
+          <li> Gwangju Institute of Science and Technology <br> (2023-2025) M.S in Artificial Intelligence  </li>
            
-        <li> Ulsan National Institute of Science and Technology <br> (2014-2019) B.S in Physics, minor in Nuclear Science and Engineering </li> 
+          <li> Ulsan National Institute of Science and Technology <br> (2014-2019) B.S in Physics, minor in Nuclear Science and Engineering </li> 
           
-        <li> University of Art in London <br> (2017) </li>
+          <li> University of Art in London <br> (2017) </li>
+        </ul>
         
       </div>
 
@@ -95,23 +101,9 @@ redirect_from:
     </div>
 </div>
 
-
-</body>
-</html>
-
-
-
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-</head>
-
 <br>
 <br>
 
-<body bgcolor='#fffff'>
   <h1> Experience </h1>
   <h2> Teaching </h2>
     <li> General PhysicsⅠ, UNIST (spring 2018) </li>
@@ -130,8 +122,11 @@ redirect_from:
 
 
 </body>
-
 </html>
+
+
+
+
 
 
 
