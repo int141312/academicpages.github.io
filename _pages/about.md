@@ -52,7 +52,7 @@ redirect_from:
         h1 { text-align: center; }
 
         li{ list-style-position: inside; 
-            text-indent: -20.5px;
+            text-indent: -20px;
         }
         
     </style>
@@ -108,6 +108,8 @@ redirect_from:
 
 </head>
 
+<br>
+<br>
 
 <body bgcolor='#fffff'>
   <h1> Experience </h1>
