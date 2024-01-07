@@ -2,7 +2,7 @@
 main:
     
   - title: "Research"
-    url: <a href="/about/#research"></a>
+    url: /about/#research
         
   - title: "Experience"
     url: /experiences/
