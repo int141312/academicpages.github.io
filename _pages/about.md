@@ -56,6 +56,15 @@ redirect_from:
         }
 
         .inside { list-style-position: inside; }
+
+        iframe 
+        {    
+         display: block; 
+         width: 100%; 
+         border: none; 
+         overflow-y: auto; 
+         overflow-x: hidden;
+        }
         
     </style>
 </head>
@@ -102,6 +111,18 @@ redirect_from:
 
 <br>
 
+<iframe src="https://int141312.github.io/experiences/" 
+    frameborder="0" 
+    marginheight="0" 
+    marginwidth="0" 
+    width="100%" 
+    height="100%" 
+    scrolling="auto" 
+    style="border:none" 
+    width="100%" 
+    height="100%">  
+</iframe>
+
   <h1> Experience </h1>
   <h2> Teaching </h2>
     <li> General PhysicsⅠ, UNIST (spring 2018) </li>
@@ -119,7 +140,7 @@ redirect_from:
     <li> Deep Learning Review </li>
 
 
-<iframe src="https://int141312.github.io/experiences/" title="내용" style="border:none" width="100%" height="100%"></iframe>
+
 
 
 </body>
