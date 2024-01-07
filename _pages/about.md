@@ -57,7 +57,7 @@ redirect_from:
 </head>
 
 
-<body>
+<body bgcolor='#F2F2F2'>
 
 <div class="columns">
     <div class="column1">
