@@ -22,28 +22,28 @@ redirect_from:
 
         .column1 {
             width: 30%; /* 조절 가능 */
-            border: 1px solid #fff;
+            border: 1px solid #F2F2F2;
             padding: 10px;
             box-sizing: border-box;
         }
 
         .column2 {
             width: 70%; /* 조절 가능 */
-            border: 1px solid #fff;
+            border: 1px solid #F2F2F2;
             padding: 10px;
             box-sizing: border-box;
         }
 
         .column3 {
             width: 40%; /* 조절 가능 */
-            border: 1px solid #fff;
+            border: 1px solid #F2F2F2;
             padding: 10px;
             box-sizing: border-box;
         }
 
         .column4 {
             width: 60%; /* 조절 가능 */
-            border: 1px solid #fff;
+            border: 1px solid #F2F2F2;
             padding: 10px;
             box-sizing: border-box;
         }
@@ -51,7 +51,7 @@ redirect_from:
 
         h1 { text-align: center; }
 
-        li{ list-style-position : inside  /* list-style-position : outside : 기본값 */}
+        li{ list-style-position : inside;  /* list-style-position : outside : 기본값 */}
         
     </style>
 </head>
@@ -95,67 +95,40 @@ redirect_from:
 </div>
 
 
-
-
-
 </body>
 </html>
 
 
-<!--
-![alt text](https://github.com/int141312/int141312.github.io/blob/gh-pages/images/profile.png?raw=true){: width="200" height="200"}{: .align-left} 
 
-### Jisung Son
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-
-I'm interested in Deep Learning, Representation Learning, Information Theory, Diffusion models. Nullam a pellentesque tortor. Aliquam imperdiet elementum rutrum. Nullam id eros ornare, lobortis orci nec, facilisis eros. Vestibulum consectetur malesuada nisl id iaculis. Integer sollicitudin volutpat diam, id molestie nunc egestas interdum. Phasellus suscipit sodales dolor eget faucibus. Maecenas nec vestibulum purus, et varius lorem. Vestibulum consectetur malesuada nisl id iaculis.   
--->
-
-
-Research
-------
+</head>
 
 
-
-
-
-### Interests
-* Deep Learning
-* Representation Learning
-* Diffusion models
-* Information Theory
-
-### Education
-* Gwangju Institute of Science and Technology (2023-2025)
-  M.S in Artificial Intelligence
-* Ulsan National Institute of Science and Technology (2014-2019) 
-  B.S in Physics, minor in Nuclear Science and Engineering
-* University of Art in London (2017)
-
-
-Experience
-------
-
-### Teaching
-* General PhysicsⅠ, UNIST (spring 2018) 
-* General Physics Ⅱ, UNIST (fall 2018)
-* Calculus Ⅱ, UNIST (fall 2018)
+<body>
+  <h1> Experience </h1>
+  <h2> Teaching </h2>
+    <li> General PhysicsⅠ, UNIST (spring 2018) </li>
+    <li> General Physics Ⅱ, UNIST (fall 2018) </li>
+    <li> Calculus Ⅱ, UNIST (fall 2018) </li>
  
-### Research intern
-* UNIST (2018-2019)
-* GIST (2023)
+  <h2> Military Service </h2>
+    <li> ROKAF (2020-2022) </li>
 
-### Military Service
-* ROKAF (2020-2022)
+  <h2> Additional Education </h2>
+    <li> KIAS-APCTP Statistical Physics Winter School (POSTECH) (2020) - ML & Deep Learning </li>
+    <li> Data Youth Campus (Yonsei University) (2022) - Big Data analysis & Deep Learning </li>
 
-### Additional Education
-* KIAS-APCTP Statistical Physics Winter School (POSTECH) (2020) - ML & Deep Learning
-* Data Youth Campus (Yonsei University) (2022) - Big Data analysis & Deep Learning
-
-### YouTube Activity
-* Deep Learning Review
+  <h2> YouTube Activity </h2>
+    <li> Deep Learning Review </li>
 
 
+</body>
+
+</html>
 
 
 
