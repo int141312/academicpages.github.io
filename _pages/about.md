@@ -56,7 +56,9 @@ redirect_from:
         }
 
         h1 { text-align: center; }
-        a { text-align: center; }
+
+        .atag { text-align: center;}
+
         li{ list-style-position: inside; 
             text-indent: -20px;
         }
@@ -73,8 +75,8 @@ redirect_from:
 <div class="columns">
     <div class="column1">
         <p>  <img src="https://github.com/int141312/int141312.github.io/blob/gh-pages/images/profile.png?raw=true">   </p> 
-        <h1> Jisung Son </h1> <br>
-        <a> jisung9973@gmail.com </a>
+        <h1> Jisung Son </h1>
+        <div class="atag"> <a> jisung9973@gmail.com  </a></div>
     </div>
 
     <div class="column2">
@@ -82,7 +84,7 @@ redirect_from:
         </p>
     <div class="columns">
       <div class="column3">
-        <h3> Interests </h3>
+        <div class="atag"> <h3> Interests </h3> </div>
         <ul class="inside">
           <li> Deep Learning </li>
           <li> Representation Learning </li>
@@ -92,7 +94,7 @@ redirect_from:
       </div>
 
       <div class="column2">
-        <h3> Education </h3>
+        <div class="atag"> <h3> Education </h3> </div>
         <ul class="inside">
           <li> Gwangju Institute of Science and Technology <br> (2023-2025) M.S in Artificial Intelligence  </li>
            
