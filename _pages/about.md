@@ -50,6 +50,9 @@ redirect_from:
 
 
         h1 { text-align: center; }
+
+        li{ list-style-position : inside  /* list-style-position : outside : 기본값 */}
+        
     </style>
 </head>
 
@@ -71,22 +74,16 @@ redirect_from:
       <div class="column3">
         <h3> Interests </h3>
         <li> Deep Learning </li>
-        <li> Representation <br> Learning </li>
+        <li> Representation Learning </li>
         <li> Diffusion models </li>
         <li> Information Theory </li>
       </div>
 
-      <div class="column4">
+      <div class="column2">
         <h3> Education </h3>
-        <li> Gwangju Institute of Science and Technology (2023-2025) <br>
-              M.S in Artificial Intelligence 
-        </li>
+        <li> Gwangju Institute of Science and Technology (2023-2025) M.S in Artificial Intelligence  </li>
            
-        <li> Ulsan National Institute of Science and Technology (2014-2019) 
-          <ol>
-            <li> B.S in Physics, minor in Nuclear Science and Engineering </li>
-          </ol>
-        </li> 
+        <li> Ulsan National Institute of Science and Technology (2014-2019) B.S in Physics, minor in Nuclear Science and Engineering </li> 
           
         <li> University of Art in London (2017) </li>
         
