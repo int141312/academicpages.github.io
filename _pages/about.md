@@ -71,9 +71,10 @@ redirect_from:
 <body bgcolor='#F2F2F2'>
 
 <div class="columns">
-    <div class="column1">
+    <div class="column1" text-align: center;>
         <p>  <img src="https://github.com/int141312/int141312.github.io/blob/gh-pages/images/profile.png?raw=true">   </p> 
-        <h1> Jisung Son </h1> 
+        <h1> Jisung Son </h1> <br>
+        <a> jisung9973@gmail.com </a>
     </div>
 
     <div class="column2">
