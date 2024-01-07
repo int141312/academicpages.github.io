@@ -51,7 +51,7 @@ redirect_from:
         .column5 {
             width: 100%; /* 조절 가능 */
             border: 1px solid #FFFFFF;
-            padding: 10px;
+            padding: 20px;
             box-sizing: border-box;
         }
 
@@ -63,12 +63,6 @@ redirect_from:
 
         .inside { list-style-position: inside; }
 
-
-        .page {
-        flex: 1; /* 각각의 페이지가 동일한 공간을 차지하도록 설정 */
-        overflow: hidden; /* 필요에 따라 스크롤을 허용하거나 숨김 */
-        border: none; /* 경계선 추가 (선택사항) */
-        }
         
     </style>
 </head>
@@ -131,25 +125,25 @@ redirect_from:
   <br>
   <div class="column5">
     <h1> Experience </h1>
-    <h2> Teaching </h2>
+    <h3> Teaching </h3>
     <ul class="inside">
     <li> General PhysicsⅠ, UNIST (spring 2018) </li>
     <li> General Physics Ⅱ, UNIST (fall 2018) </li>
     <li> Calculus Ⅱ, UNIST (fall 2018) </li>
     </ul>
  
-    <h2> Military Service </h2>
+    <h3> Military Service </h3>
     <ul class="inside">
     <li> ROKAF (2020-2022) </li>
     </ul>
 
-    <h2> Additional Education </h2>
+    <h3> Additional Education </h3>
     <ul class="inside">
     <li> KIAS-APCTP Statistical Physics Winter School (POSTECH) (2020) - ML & Deep Learning </li>
     <li> Data Youth Campus (Yonsei University) (2022) - Big Data analysis & Deep Learning </li>
     </ul>
 
-    <h2> YouTube Activity </h2>
+    <h3> YouTube Activity </h3>
 
   </div>
 </div>
