@@ -184,7 +184,7 @@
 
   a {
     display: block;
-    margin: 0 0.5rem; //원래값 0 1rem; -> navigation 조작에 유의미
+    margin: 0 1rem; //원래값 0 1rem; -> navigation 조작에 유의미
     padding: 0.5rem 0; //원래값 0.5rem 0; -> navigation 조작에 유의미
     color: $masthead-link-color;
     text-decoration: none;
