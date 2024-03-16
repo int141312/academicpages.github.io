@@ -85,9 +85,8 @@ redirect_from:
         <h3> Interests </h3>
         <ul class="inside">
           <li> Deep Learning </li>
-          <li> Representation Learning </li>
+          <li> Generative AI </li>
           <li> Diffusion models </li>
-          <li> Information Theory </li>
         </ul>
       </div>
 
@@ -98,7 +97,6 @@ redirect_from:
            
           <li> Ulsan National Institute of Science and Technology <br> (2014-2019) B.S in Physics, minor in Nuclear Science and Engineering </li> 
           
-          <li> University of Art in London <br> (2017) </li>
         </ul>
         
       </div>
@@ -116,6 +114,8 @@ redirect_from:
     <div class="column5">
       <h1> Research </h1> 
       <p>Vestibulum consectetur malesuada nisl id iaculis. Integer sollicitudin volutpat diam, id molestie nunc egestas interdum. Phasellus suscipit sodales dolor eget faucibus. Maecenas nec vestibulum purus, et varius lorem. Vestibulum consectetur malesuada nisl id iaculis.Vestibulum consectetur malesuada nisl id iaculis. Integer sollicitudin volutpat diam, id molestie nunc egestas interdum. Phasellus suscipit sodales dolor eget faucibus. Maecenas nec vestibulum purus, et varius lorem. Vestibulum consectetur malesuada nisl id iaculis.Vestibulum consectetur malesuada nisl id iaculis. Integer sollicitudin volutpat diam, id molestie nunc egestas interdum. Phasellus suscipit sodales dolor eget faucibus. Maecenas nec vestibulum purus, et varius lorem. Vestibulum consectetur malesuada nisl id iaculis.Vestibulum consectetur malesuada nisl id iaculis. Integer sollicitudin volutpat diam, id molestie nunc egestas interdum. Phasellus suscipit sodales dolor eget faucibus. Maecenas nec vestibulum purus, et varius lorem. Vestibulum consectetur malesuada nisl id iaculis.Vestibulum consectetur malesuada nisl id iaculis. Integer sollicitudin volutpat diam, id molestie nunc egestas interdum. Phasellus suscipit sodales dolor eget faucibus. Maecenas nec vestibulum purus, et varius lorem. Vestibulum consectetur malesuada nisl id iaculis.Vestibulum consectetur malesuada nisl id iaculis. Integer sollicitudin volutpat diam, id molestie nunc egestas interdum. Phasellus suscipit sodales dolor eget faucibus. Maecenas nec vestibulum purus, et varius lorem. Vestibulum consectetur malesuada nisl id iaculis.Vestibulum consectetur malesuada nisl id iaculis. Integer sollicitudin volutpat diam, id molestie nunc egestas interdum. Phasellus suscipit sodales dolor eget faucibus. Maecenas nec vestibulum purus, et varius lorem. Vestibulum consectetur malesuada nisl id iaculis.</p>
+    <iframe src="https://www.notion.so/Diffusion-model-Background-9b61df6e3d8846a2a55c378a8024bfa1" title="Diffusion Model" width="100%" height="100%"></iframe>
+      
     </div>
 
 </div>
