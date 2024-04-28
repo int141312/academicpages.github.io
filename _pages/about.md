@@ -55,6 +55,13 @@ redirect_from:
             box-sizing: border-box;
         }
 
+        .column6 {
+            width: 50%; /* 조절 가능 */
+            border: 1px solid #FFFFFF;
+            padding: 20px;
+            box-sizing: border-box;
+        }
+
         h1 { text-align: center; }
 
         li{ list-style-position: inside; 
@@ -116,14 +123,32 @@ My goal is not just to create models that can generate realistic outputs, but al
 <div id="research" name="research" class="columns" style='background-color: #ffffff' >
     <br>
     <div class="column5">
-      <h1> Research </h1> 
+      <h1> Research & Projects </h1> 
       <h3> Model Sensitivity </h3>
       <p>
       Apply formulas to predict how parameters change as data changes without retraining.
       </p>      
-    </div>
 
+      <h3> Development and Training of Reinforcement Learning Environments with Dynamic Terrain Considerations: A Case Study on Robot Vacuum Cleaner (2023.03 ~ 2023.06) </h3>
+      <p> * Language: Python </p>
+
+      <div class="columns" style='background-color: #ffffff'>
+        <div class="column6">
+        <p>  Reinforcement learning is commonly applied to learn optimal decision-making in stationary environments. However, in real-world scenarios, stationary environments are limited, and thus, the use of reinforcement learning in machine intelligence applications is limited. In the case of robot vacuum cleaners, companies typically employ simple algorithms or basic machine learning techniques to determine the robot’s movement path. These approaches fail to address the issue of adapting to environmental changes that occur during the cleaning process. We aim to develop a reinforcement learning environment that can be used to enhance the efficiency of robot vacuum cleaners and use the environment to train a robot vacuum cleaner agent. We created a dynamic grid-world-based learning environment that incorporates potential changes in the real world. We trained a robot vacuum cleaner to navigate the room efficiently and compared its performance with traditional algorithm-based approaches.  </p> 
+        </div>
+
+        <div class="column6">
+          <p> {% include video.html id="3AfjKQNlUwY"%} </p>
+        </div>
+
+      </div>
+
+      <h3> Development of efficient dictionary training technology for large Korean language models (2024. 01 ~ 2024. 12) </h3>
+      
+    </div>
 </div>
+
+<br>
 
 <div id="study" name="study" class="columns" style='background-color: #ffffff' >
     <br>
@@ -134,10 +159,12 @@ My goal is not just to create models that can generate realistic outputs, but al
       <a href="https://www.notion.so/Why-ML-lost-and-DL-became-the-trend-2249f0f11b16451c93b79d5214356bc7" target="_blank"> Notion </a>
 
       <h3> Discussion of deep learning representations </h3>
-      <a href="https://panoramic-timer-f8a.notion.site/Discussion-of-deep-learning-representations-a48f244a96264b578ae3ffb277ceb1cf" target="_blank"> Notion2 </a>
-            
-    </div>
+      <a href="https://panoramic-timer-f8a.notion.site/Discussion-of-deep-learning-representations-a48f244a96264b578ae3ffb277ceb1cf" target="_blank"> Notion </a>
 
+      <h3> Diffusion model Background </h3>
+      <a href="https://www.notion.so/Diffusion-model-Background-9b61df6e3d8846a2a55c378a8024bfa1" target="_blank"> Notion </a>
+      
+    </div>
 </div>
 
 <br>
@@ -164,11 +191,27 @@ My goal is not just to create models that can generate realistic outputs, but al
     <li> Data Youth Campus (Yonsei University) (2022) - Big Data analysis & Deep Learning </li>
     </ul>
 
-    <h3> YouTube Activity </h3>
 
   </div>
 </div>
 
+<br>
+
+<div id="Motto" name="Motto" class="columns" style='background-color: #ffffff' >
+  <br>
+  <div class="column5">
+    <h1> Life Motto </h1>
+    <h3> Let's do something I'm passionate about. </h3>
+    <p> No matter what you do, there will always come a time when it's hard and you feel like giving up. To get through those moments, you need to do something you love and are passionate about. This is the secret to success and how I live my life. </p>
+
+    <h3> Muscle growth </h3>
+    <p> If you look at the process of muscle development, the first thing that happens is that muscle fibers tear, and new muscle fibers grow to fill the void. Human growth is no different than muscle development. The right amount of "tearing" is what makes you grow. </p> 
+ 
+
+
+
+  </div>
+</div>
 
 
 
