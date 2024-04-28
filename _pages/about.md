@@ -78,7 +78,9 @@ redirect_from:
     </div>
 
     <div class="column2">
-        <p>I'm interested in Deep Learning, Representation Learning, Information Theory, Diffusion models. Nullam a pellentesque tortor. Aliquam imperdiet elementum rutrum. Nullam id eros ornare, lobortis orci nec, facilisis eros. Vestibulum consectetur malesuada nisl id iaculis. Integer sollicitudin volutpat diam, id molestie nunc egestas interdum. Phasellus suscipit sodales dolor eget faucibus. Maecenas nec vestibulum purus, et varius lorem. Vestibulum consectetur malesuada nisl id iaculis.
+        <p>I am a deep learning enthusiast with a keen interest in generative models, diffusion models, and the underlying principles of deep learning. My passion lies in designing interpretable and inferable generative models that can emulate the complexities of the real world.
+
+My goal is not just to create models that can generate realistic outputs, but also to forge a deeper understanding of deep learning architectures and methodologies. Through this journey, I am committed to advancing research that demystifies the core mechanics of AI, making it as accessible and as natural to use in our daily lives as a calculator.
         </p>
     <div class="columns">
       <div class="column3">
