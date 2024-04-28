@@ -79,7 +79,9 @@ redirect_from:
 
     <div class="column2">
         <p>I am a deep learning enthusiast with a keen interest in generative models, diffusion models, and the underlying principles of deep learning. My passion lies in designing interpretable and inferable generative models that can emulate the complexities of the real world.
-
+        </p>
+        
+        <p>
 My goal is not just to create models that can generate realistic outputs, but also to forge a deeper understanding of deep learning architectures and methodologies. Through this journey, I am committed to advancing research that demystifies the core mechanics of AI, making it as accessible and as natural to use in our daily lives as a calculator.
         </p>
     <div class="columns">
@@ -115,10 +117,25 @@ My goal is not just to create models that can generate realistic outputs, but al
     <br>
     <div class="column5">
       <h1> Research </h1> 
-      <p>Vestibulum consectetur malesuada nisl id iaculis. Integer sollicitudin volutpat diam, id molestie nunc egestas interdum. Phasellus suscipit sodales dolor eget faucibus. Maecenas nec vestibulum purus, et varius lorem. Vestibulum consectetur malesuada nisl id iaculis.Vestibulum consectetur malesuada nisl id iaculis. Integer sollicitudin volutpat diam, id molestie nunc egestas interdum. Phasellus suscipit sodales dolor eget faucibus. Maecenas nec vestibulum purus, et varius lorem. Vestibulum consectetur malesuada nisl id iaculis.Vestibulum consectetur malesuada nisl id iaculis. Integer sollicitudin volutpat diam, id molestie nunc egestas interdum. Phasellus suscipit sodales dolor eget faucibus. Maecenas nec vestibulum purus, et varius lorem. Vestibulum consectetur malesuada nisl id iaculis.Vestibulum consectetur malesuada nisl id iaculis. Integer sollicitudin volutpat diam, id molestie nunc egestas interdum. Phasellus suscipit sodales dolor eget faucibus. Maecenas nec vestibulum purus, et varius lorem. Vestibulum consectetur malesuada nisl id iaculis.Vestibulum consectetur malesuada nisl id iaculis. Integer sollicitudin volutpat diam, id molestie nunc egestas interdum. Phasellus suscipit sodales dolor eget faucibus. Maecenas nec vestibulum purus, et varius lorem. Vestibulum consectetur malesuada nisl id iaculis.Vestibulum consectetur malesuada nisl id iaculis. Integer sollicitudin volutpat diam, id molestie nunc egestas interdum. Phasellus suscipit sodales dolor eget faucibus. Maecenas nec vestibulum purus, et varius lorem. Vestibulum consectetur malesuada nisl id iaculis.Vestibulum consectetur malesuada nisl id iaculis. Integer sollicitudin volutpat diam, id molestie nunc egestas interdum. Phasellus suscipit sodales dolor eget faucibus. Maecenas nec vestibulum purus, et varius lorem. Vestibulum consectetur malesuada nisl id iaculis.</p>
-    
-    <div class="frame" data-src="https://www.notion.so/Diffusion-model-Background-9b61df6e3d8846a2a55c378a8024bfa1"></div>
+      <h3> Model Sensitivity </h3>
+      <p>
+      Apply formulas to predict how parameters change as data changes without retraining.
+      </p>      
+    </div>
+
+</div>
+
+<div id="study" name="study" class="columns" style='background-color: #ffffff' >
+    <br>
+    <div class="column5">
+      <h1> Study </h1> 
       
+      <h3> Why ML lost and DL became the trend? </h3>
+      <a href="https://www.notion.so/Why-ML-lost-and-DL-became-the-trend-2249f0f11b16451c93b79d5214356bc7" target="_blank"> Notion </a>
+
+      <h3> Discussion of deep learning representations </h3>
+      <a href="https://panoramic-timer-f8a.notion.site/Discussion-of-deep-learning-representations-a48f244a96264b578ae3ffb277ceb1cf" target="_blank"> Notion2 </a>
+            
     </div>
 
 </div>
