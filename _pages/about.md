@@ -161,36 +161,39 @@ My goal is not just to create models that can generate realistic outputs, but al
     <br>
     <div class="column5">
       <h1> Study </h1> 
+    <br>
 
-      <div class="column6">
-        <div class="card">    
-        <h3> Why ML lost and DL became the trend? </h3>
-          <a href="https://www.notion.so/Why-ML-lost-and-DL-became-the-trend-  2249f0f11b16451c93b79d5214356bc7" target="_blank"> Notion </a>
+       <div class="columns" style='background-color: #ffffff'>
+        <div class="column6">
+          <div class="card">    
+            <h3> Why ML lost and DL became the trend? </h3>
+              <a href="https://www.notion.so/Why-ML-lost-and-DL-became-the-trend-    2249f0f11b16451c93b79d5214356bc7" target="_blank"> Notion </a>
+          </div>
+
+          <div class="card">
+          <h3> Diffusion model Background </h3>
+            <a href="https://www.notion.so/Diffusion-model-Background-9b61df6e3d8846a2a55c378a8024bfa1" target="_blank"> Notion </a>
+          </div>
+
+          </div>
+
+
+
+        <div class="column6"> 
+
+          <div class="card" onclick='window.location.href = "https://panoramic-timer-f8a.notion.site/Discussion-of-deep-learning-representations-a48f244a96264b578ae3ffb277ceb1cf?pvs=4" ' > Discussion of deep learning representations </div>
+
+          <div class="card">
+            <h3> Why Cross Entropy? </h3>
+              <a href="https://panoramic-timer-f8a.notion.site/Why-Cross-Entropy-4f0809c9077f4bde8cccfa80d849d1b9?pvs=4"> Notion </a>
+              
+          </div>
         </div>
-
-        <div class="card">
-        <h3> Diffusion model Background </h3>
-          <a href="https://www.notion.so/Diffusion-model-Background-9b61df6e3d8846a2a55c378a8024bfa1" target="_blank"> Notion </a>
-        </div>
-
       </div>
-
-
-
-      <div class="column6"> 
-
-        <div onclick='window.location.href = "https://panoramic-timer-f8a.notion.site/Discussion-of-deep-learning-representations-a48f244a96264b578ae3ffb277ceb1cf" target="_blank" class="card"> Discussion of deep learning representations </div>
-
-        <div class="card">
-          <h3> Why Cross Entropy? </h3>
-            <a href="https://panoramic-timer-f8a.notion.site/Why-Cross-Entropy-4f0809c9077f4bde8cccfa80d849d1b9?pvs=4"> Notion </a>
-        </div>
-
-      </div>
-
       
     </div>
 </div>
+
 
 <br>
 
