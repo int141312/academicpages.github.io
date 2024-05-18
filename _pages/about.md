@@ -165,7 +165,9 @@ My goal is not just to create models that can generate realistic outputs, but al
 
        <div class="columns" style='background-color: #ffffff'>
         <div class="column6">
-          <div style="border:2px solid #0073CF; text-align : center; align-items : center; " class="card" onclick='window.location.href = "https://panoramic-timer-f8a.notion.site/Why-ML-lost-and-DL-became-the-trend-2249f0f11b16451c93b79d5214356bc7?pvs=4" ' > <h3> Why ML lost and DL became the trend? </h3> </div>
+          <div style="border:2px solid #0073CF; justify-content : center; align-items : center; " class="card" onclick='window.location.href = "https://panoramic-timer-f8a.notion.site/Why-ML-lost-and-DL-became-the-trend-2249f0f11b16451c93b79d5214356bc7?pvs=4" ' > <h3> Why ML lost and DL became the trend? </h3> </div>
+
+          <br>
 
           <div style="border:2px solid #0073CF" class="card" onclick='window.location.href = "https://panoramic-timer-f8a.notion.site/Diffusion-model-Background-9b61df6e3d8846a2a55c378a8024bfa1?pvs=4" ' > <h3> Diffusion model Background </h3> </div>
 
@@ -175,7 +177,9 @@ My goal is not just to create models that can generate realistic outputs, but al
 
         <div class="column6"> 
 
-          <div class="card" onclick='window.location.href = "https://panoramic-timer-f8a.notion.site/Discussion-of-deep-learning-representations-a48f244a96264b578ae3ffb277ceb1cf?pvs=4" ' > <h3> Discussion of deep learning representations </h3> </div>
+          <div class="card bg-primary text-white" onclick='window.location.href = "https://panoramic-timer-f8a.notion.site/Discussion-of-deep-learning-representations-a48f244a96264b578ae3ffb277ceb1cf?pvs=4" ' > <h3> Discussion of deep learning representations </h3> </div>
+
+          <br>
 
           <div class="card" onclick='window.location.href = "https://panoramic-timer-f8a.notion.site/Why-Cross-Entropy-4f0809c9077f4bde8cccfa80d849d1b9?pvs=4" ' > <h3> Why Cross Entropy? </h3> </div>
           
