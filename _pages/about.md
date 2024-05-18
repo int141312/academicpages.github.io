@@ -62,6 +62,13 @@ redirect_from:
             box-sizing: border-box;
         }
 
+        .column7 {
+            width: 50%; /* 조절 가능 */
+            border: 1px solid #d3d3d3;  /* 회색 색상 코드 추가 */
+            padding: 20px;
+            box-sizing: border-box;
+        }
+
         h1 { text-align: center; }
 
         li{ list-style-position: inside; 
@@ -124,7 +131,7 @@ My goal is not just to create models that can generate realistic outputs, but al
     <br>
     <div class="column5">
       <h1> Research & Projects </h1> 
-      <h3> Model Sensitivity </h3>
+      <h3> Model Sensitivity (Ongoing) </h3>
       <p>
       Apply formulas to predict how parameters change as data changes without retraining.
       </p>      
@@ -154,15 +161,46 @@ My goal is not just to create models that can generate realistic outputs, but al
     <br>
     <div class="column5">
       <h1> Study </h1> 
+
+      <div class="column6"> /* 왼쪽 카드 입력란 */
+
+        <div class="card">
       
-      <h3> Why ML lost and DL became the trend? </h3>
-      <a href="https://www.notion.so/Why-ML-lost-and-DL-became-the-trend-2249f0f11b16451c93b79d5214356bc7" target="_blank"> Notion </a>
+        <h3> Why ML lost and DL became the trend? </h3>
+          <a href="https://www.notion.so/Why-ML-lost-and-DL-became-the-trend-  2249f0f11b16451c93b79d5214356bc7" target="_blank"> Notion </a>
 
-      <h3> Discussion of deep learning representations </h3>
-      <a href="https://panoramic-timer-f8a.notion.site/Discussion-of-deep-learning-representations-a48f244a96264b578ae3ffb277ceb1cf" target="_blank"> Notion </a>
+        </div>
 
-      <h3> Diffusion model Background </h3>
-      <a href="https://www.notion.so/Diffusion-model-Background-9b61df6e3d8846a2a55c378a8024bfa1" target="_blank"> Notion </a>
+        <div class="card">
+
+        <h3> Diffusion model Background </h3>
+          <a href="https://www.notion.so/Diffusion-model-Background-9b61df6e3d8846a2a55c378a8024bfa1" target="_blank"> Notion </a>
+
+        </div>
+
+      </div>
+
+
+
+
+      <div class="column6">  /* 오른쪽 카드 입력란 */
+
+        <div class="card">
+
+          <h3> Discussion of deep learning representations </h3>
+            <a href="https://panoramic-timer-f8a.notion.site/Discussion-of-deep-learning-representations-a48f244a96264b578ae3ffb277ceb1cf" target="_blank"> Notion </a>
+
+        </div>
+
+        <div class="card">
+
+          <h3> Why Cross Entropy? </h3>
+            <a href="https://panoramic-timer-f8a.notion.site/Why-Cross-Entropy-4f0809c9077f4bde8cccfa80d849d1b9?pvs=4"> Notion </a>
+
+        </div>
+
+      </div>
+
       
     </div>
 </div>
