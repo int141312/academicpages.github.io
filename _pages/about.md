@@ -67,6 +67,7 @@ redirect_from:
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* 그림자 효과 */
             border-radius: 8px; /* 테두리 둥글게 */
             text-align : center;
+            display: flex;
             justify-content : center;
             align-items : center;
             
