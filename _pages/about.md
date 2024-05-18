@@ -62,11 +62,12 @@ redirect_from:
             box-sizing: border-box;
         }
 
-        .column7 {
-            width: 50%; /* 조절 가능 */
-            border: 1px solid #d3d3d3;  /* 회색 색상 코드 추가 */
-            padding: 20px;
-            box-sizing: border-box;
+        .card {
+            border: 1px solid #0073CF; /* 테두리 */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* 그림자 효과 */
+            border-radius: 8px; /* 테두리 둥글게 */
+            text-align : center;
+            justify-content : center;
         }
 
         h1 { text-align: center; }
@@ -165,11 +166,11 @@ My goal is not just to create models that can generate realistic outputs, but al
 
        <div class="columns" style='background-color: #ffffff'>
         <div class="column6">
-          <div style="border:2px solid #0073CF; justify-content : center; align-items : center; " class="card" onclick='window.location.href = "https://panoramic-timer-f8a.notion.site/Why-ML-lost-and-DL-became-the-trend-2249f0f11b16451c93b79d5214356bc7?pvs=4" ' > <h3> Why ML lost and DL became the trend? </h3> </div>
+          <div class="card" onclick='window.location.href = "https://panoramic-timer-f8a.notion.site/Why-ML-lost-and-DL-became-the-trend-2249f0f11b16451c93b79d5214356bc7?pvs=4" ' > <h3> Why ML lost and DL became the trend? </h3> </div>
 
           <br>
 
-          <div style="border:2px solid #0073CF" class="card" onclick='window.location.href = "https://panoramic-timer-f8a.notion.site/Diffusion-model-Background-9b61df6e3d8846a2a55c378a8024bfa1?pvs=4" ' > <h3> Diffusion model Background </h3> </div>
+          <div class="card" onclick='window.location.href = "https://panoramic-timer-f8a.notion.site/Diffusion-model-Background-9b61df6e3d8846a2a55c378a8024bfa1?pvs=4" ' > <h3> Diffusion model Background </h3> </div>
 
         </div>
 
@@ -177,7 +178,7 @@ My goal is not just to create models that can generate realistic outputs, but al
 
         <div class="column6"> 
 
-          <div class="card bg-primary text-white" onclick='window.location.href = "https://panoramic-timer-f8a.notion.site/Discussion-of-deep-learning-representations-a48f244a96264b578ae3ffb277ceb1cf?pvs=4" ' > <h3> Discussion of deep learning representations </h3> </div>
+          <div class="card" onclick='window.location.href = "https://panoramic-timer-f8a.notion.site/Discussion-of-deep-learning-representations-a48f244a96264b578ae3ffb277ceb1cf?pvs=4" ' > <h3> Discussion of deep learning representations </h3> </div>
 
           <br>
 
