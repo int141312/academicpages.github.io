@@ -71,7 +71,7 @@ redirect_from:
             align-items : center;
             text-align : center;
             padding : 5px 0;
-            display:inline;
+            
         }
 
         h1 { text-align: center; }
@@ -170,11 +170,11 @@ My goal is not just to create models that can generate realistic outputs, but al
 
        <div class="columns" style='background-color: #ffffff'>
         <div class="column6">
-          <div class="card" onclick='window.location.href = "https://panoramic-timer-f8a.notion.site/Why-ML-lost-and-DL-became-the-trend-2249f0f11b16451c93b79d5214356bc7?pvs=4" ' > <h3 style="display:inline"> Why ML lost and DL became the trend? </h3> </div>
+          <div class="card" onclick='window.location.href = "https://panoramic-timer-f8a.notion.site/Why-ML-lost-and-DL-became-the-trend-2249f0f11b16451c93b79d5214356bc7?pvs=4" ' > <h3> Why ML lost and DL became the trend? </h3> </div>
 
           <br>
 
-          <div class="card" onclick='window.location.href = "https://panoramic-timer-f8a.notion.site/Diffusion-model-Background-9b61df6e3d8846a2a55c378a8024bfa1?pvs=4" ' > <h3 style="display:inline"> Diffusion model Background </h3> </div>
+          <div class="card" onclick='window.location.href = "https://panoramic-timer-f8a.notion.site/Diffusion-model-Background-9b61df6e3d8846a2a55c378a8024bfa1?pvs=4" ' > <h3> Diffusion model Background </h3> </div>
 
         </div>
 
@@ -182,11 +182,11 @@ My goal is not just to create models that can generate realistic outputs, but al
 
         <div class="column6"> 
 
-          <div class="card" onclick='window.location.href = "https://panoramic-timer-f8a.notion.site/Discussion-of-deep-learning-representations-a48f244a96264b578ae3ffb277ceb1cf?pvs=4" ' > <h3 style="display:inline"> Discussion of deep learning representations </h3> </div>
+          <div class="card" onclick='window.location.href = "https://panoramic-timer-f8a.notion.site/Discussion-of-deep-learning-representations-a48f244a96264b578ae3ffb277ceb1cf?pvs=4" ' > <h3> Discussion of deep learning representations </h3> </div>
 
           <br>
 
-          <div class="card" onclick='window.location.href = "https://panoramic-timer-f8a.notion.site/Why-Cross-Entropy-4f0809c9077f4bde8cccfa80d849d1b9?pvs=4" ' > <h3 style="display:inline"> Why Cross Entropy? </h3> </div>
+          <div class="card" onclick='window.location.href = "https://panoramic-timer-f8a.notion.site/Why-Cross-Entropy-4f0809c9077f4bde8cccfa80d849d1b9?pvs=4" ' > <h3> Why Cross Entropy? </h3> </div>
           
         </div>
       </div>
