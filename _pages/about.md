@@ -69,7 +69,8 @@ redirect_from:
             display: flex;
             justify-content : center;
             align-items : center;
-            
+            text-align : center;
+            padding : 100px 0;
         }
 
         h1 { text-align: center; }
