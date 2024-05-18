@@ -71,6 +71,7 @@ redirect_from:
             align-items : center;
             text-align : center;
             padding : 5px 0;
+            display:inline;
         }
 
         h1 { text-align: center; }
