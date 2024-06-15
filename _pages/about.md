@@ -155,6 +155,21 @@ My goal is not just to create models that can generate realistic outputs, but al
 
       </div>
 
+      <h3> MENU Master : Service that provides food recommendations and information to help you navigate away from menus in languages you don't understand. (2024.03 ~ 2024.06) </h3>
+      <p> * Language: Python(Flask) </p>
+
+      <div class="columns" style='background-color: #ffffff'>
+        <div class="column6">
+        <p>  This service can be useful if the menu is in a language you don't understand and you can't get any information from it. It uses the user's information and the menu information on the menu board to determine the fitness of the food and recommends the top three options.  </p> 
+        </div>
+
+        <div class="column6">
+          <p> {% include video.html id="4RiLnJGKvxI"%} </p>
+        </div>
+
+      </div>
+
+
       <h3> Development of efficient dictionary training technology for large Korean language models (2024. 01 ~ 2024. 12) </h3>
       
     </div>
