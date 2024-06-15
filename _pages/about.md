@@ -164,7 +164,7 @@ My goal is not just to create models that can generate realistic outputs, but al
         </div>
 
         <div class="column6">
-          <p> {% include video.html id="4RiLnJGKvxI"%} </p>
+          <p> {% include 'video.html' with id="4RiLnJGKvxI" %} </p>
         </div>
 
       </div>
