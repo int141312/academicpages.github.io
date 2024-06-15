@@ -164,7 +164,9 @@ My goal is not just to create models that can generate realistic outputs, but al
         </div>
 
         <div class="column6">
-          <p> {% include video.html id="4RiLnJGKvxI" %} </p>
+          <p>  <!-- {% include video.html id="4RiLnJGKvxI" %} -->
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/4RiLnJGKvxI" frameborder="0" allowfullscreen></iframe>
+          </p>
         </div>
 
       </div>
