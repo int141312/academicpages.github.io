@@ -97,7 +97,7 @@ redirect_from:
     </div>
 
     <div class="column2">
-        <p>I am a deep learning enthusiast with a keen interest in generative models, diffusion models, and the underlying principles of deep learning. My passion lies in designing interpretable and inferable generative models that can emulate the complexities of the real world.
+        <p>I am a deep learning enthusiast with a keen interest in Anomaly Detection, OOD detection, language model, diffusion models, and Data-centric AI. My passion lies in designing interpretable and inferable deep learning models that can emulate the complexities of the real world.
         </p>
         
         <p>
@@ -107,9 +107,9 @@ My goal is not just to create models that can generate realistic outputs, but al
       <div class="column3">
         <h3> Interests </h3>
         <ul class="inside">
-          <li> Deep Learning </li>
-          <li> Generative AI </li>
-          <li> Diffusion models </li>
+          <li> Deep Learning : Anomaly Detection, OOD detection </li>
+          <li> Generative AI : Language model, Diffusion model </li>
+          <li> Data-centric AI </li>
         </ul>
       </div>
 
@@ -136,10 +136,12 @@ My goal is not just to create models that can generate realistic outputs, but al
     <br>
     <div class="column5">
       <h1> Research & Projects </h1> 
-      <h3> Model Sensitivity (Ongoing) </h3>
-      <p>
-      Apply formulas to predict how parameters change as data changes without retraining.
-      </p>      
+      <h3> Sample-Incremental Influence Function: A Sensitivity Metric to detect Key Feature Replacement (2024.03 ~ 2024.12) </h3>
+      <p> Abstract </p>      
+
+      <div class="columns" style='background-color: #ffffff'>
+      <p> Influence function serves as a quantitative metric of model sensitivity, measuring the degree of parameter variation, offering insights into model parameter behavior, and enabling parameter predictions without the need for retraining. The traditional influence function-based sensitivity relies on a sample-decremental approach, which only measures the impact of removing specific samples. This narrow focus restricts its ability to analyze model behavior in response to newly introduced samples, highlighting a significant limitation in adapting to dynamic data environments. In this work, we present the Sample-Incremental Influence Function that leverages influence function to evaluate the impact of additional data on model sensitivity. Correlation analysis and CAM-based visualization demonstrate the validity of our method and reveal its ability to detect key feature replacement. Sensitivity show strong potential for various applications related to feature corresponding to unknown sample. </p>
+      </div>
 
       <h3> Development and Training of Reinforcement Learning Environments with Dynamic Terrain Considerations: A Case Study on Robot Vacuum Cleaner (2023.03 ~ 2023.06) </h3>
       <p> * Language: Python </p>
@@ -173,6 +175,12 @@ My goal is not just to create models that can generate realistic outputs, but al
 
 
       <h3> Development of efficient dictionary training technology for large Korean language models (2024. 01 ~ 2024. 12) </h3>
+      <p> * Language: Python(Flask) </p>
+
+      <div class="columns" style='background-color: #ffffff'>
+      <p> We developed a model to determine whether the input text is ungrammatical, contains hate speech, or discusses a book-related topic. </p>
+      </div>
+      
       
     </div>
 </div>
@@ -246,13 +254,27 @@ My goal is not just to create models that can generate realistic outputs, but al
   <br>
   <div class="column5">
     <h1> Life Motto </h1>
-    <h3> Let's do something I'm passionate about. </h3>
-    <p> No matter what you do, there will always come a time when it's hard and you feel like giving up. To get through those moments, you need to do something you love and are passionate about. This is the secret to success and how I live my life. </p>
 
-    <h3> Muscle growth </h3>
-    <p> If you look at the process of muscle development, the first thing that happens is that muscle fibers tear, and new muscle fibers grow to fill the void. Human growth is no different than muscle development. The right amount of "tearing" is what makes you grow. </p> 
- 
+    <h3> 3 words abouts suceess </h3>
+    <li> Lifeization : Making It a Part of Your Daily Life.  </li>
+    <p> Whether you’re eating, taking a walk, or even running errands, constantly thinking about your field and how to improve it is what it means to truly make it a part of your everyday life. So, Let's do something I'm passionate about.No matter what you do, there will always come a time when it's hard and you feel like giving up. To get through those moments, you need to do something you love and are passionate about. This is the secret to success and how I live my life. </p>
 
+    <li> Muscle growth : Mental Fortitude </li>
+    <p> When you choose a particular field, you will inevitably face tough and challenging moments. To overcome these moments, having strong mental fortitude is absolutely essential.This is when you think about muscle growth. If you look at the process of muscle development, the first thing that happens is that muscle fibers tear, and new muscle fibers grow to fill the void. Human growth is no different than muscle development. The right amount of "tearing" is what makes you grow. </p>
+
+    <li> Drive </li>
+    <p> You won’t really know anything until you give it a try. That’s why people who lack the drive to take action often find it difficult to succeed. </p>
+
+    
+    <h3> 3 words about Happiness </h3>
+    <li> Friday </li>
+    <p> Between Friday and Sunday, which day makes people happier? Most choose Friday. A high school senior who is certain of getting into a prestigious university is often happier than a student already attending one. A pair who just succeeded in confessing their love and is about to become a couple can be happier than couples already in a relationship. Essentially, people feel a stronger sense of happiness when the future is assured rather than while things are still unfolding. </p>
+
+    <li> Value (Usefulness) </li>
+    <p> Among the five stages of happiness, the highest level is identity. People find value and usefulness when they realize who they are and what unique abilities they possess—things that others can’t do—and this realization leads to happiness. </p>
+
+    <li> Magic </li>
+    <p> The magical moment in a performance goes by in a flash, yet magicians spend countless hours practicing to create that brief moment. Life works the same way. Three years of high school are dedicated to preparing for college entrance exams, and four years of college are spent honing skills for employment. We put in a great deal of time and effort to seize those fleeting moments of happiness. This is what happiness is all about. </p>
 
 
   </div>
