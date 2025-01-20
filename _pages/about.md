@@ -256,6 +256,7 @@ My goal is not just to create models that can generate realistic outputs, but al
     <h1> Life Motto </h1>
 
     <h3> 3 words abouts suceess </h3>
+    <ul class="inside">
     <li> Lifeization : Making It a Part of Your Daily Life.  </li>
     <p> Whether you’re eating, taking a walk, or even running errands, constantly thinking about your field and how to improve it is what it means to truly make it a part of your everyday life. So, Let's do something I'm passionate about.No matter what you do, there will always come a time when it's hard and you feel like giving up. To get through those moments, you need to do something you love and are passionate about. This is the secret to success and how I live my life. </p>
 
@@ -264,9 +265,10 @@ My goal is not just to create models that can generate realistic outputs, but al
 
     <li> Drive </li>
     <p> You won’t really know anything until you give it a try. That’s why people who lack the drive to take action often find it difficult to succeed. </p>
-
+    </ul>
     
     <h3> 3 words about Happiness </h3>
+    <ul class="inside">
     <li> Friday </li>
     <p> Between Friday and Sunday, which day makes people happier? Most choose Friday. A high school senior who is certain of getting into a prestigious university is often happier than a student already attending one. A pair who just succeeded in confessing their love and is about to become a couple can be happier than couples already in a relationship. Essentially, people feel a stronger sense of happiness when the future is assured rather than while things are still unfolding. </p>
 
@@ -275,7 +277,7 @@ My goal is not just to create models that can generate realistic outputs, but al
 
     <li> Magic </li>
     <p> The magical moment in a performance goes by in a flash, yet magicians spend countless hours practicing to create that brief moment. Life works the same way. Three years of high school are dedicated to preparing for college entrance exams, and four years of college are spent honing skills for employment. We put in a great deal of time and effort to seize those fleeting moments of happiness. This is what happiness is all about. </p>
-
+    </ul>
 
   </div>
 </div>
