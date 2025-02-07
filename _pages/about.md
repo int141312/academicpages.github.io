@@ -136,12 +136,21 @@ My goal is not just to create models that can generate realistic outputs, but al
     <br>
     <div class="column5">
       <h1> Research & Projects </h1> 
+      
       <h3> Sample-Incremental Influence Function: A Sensitivity Metric to detect Key Feature Replacement (2024.03 ~ 2024.12) </h3>
       <p> Abstract </p>      
 
       <div class="columns" style='background-color: #ffffff'>
-      <p> Influence function serves as a quantitative metric of model sensitivity, measuring the degree of parameter variation, offering insights into model parameter behavior, and enabling parameter predictions without the need for retraining. The traditional influence function-based sensitivity relies on a sample-decremental approach, which only measures the impact of removing specific samples. This narrow focus restricts its ability to analyze model behavior in response to newly introduced samples, highlighting a significant limitation in adapting to dynamic data environments. In this work, we present the Sample-Incremental Influence Function that leverages influence function to evaluate the impact of additional data on model sensitivity. Correlation analysis and CAM-based visualization demonstrate the validity of our method and reveal its ability to detect key feature replacement. Sensitivity show strong potential for various applications related to feature corresponding to unknown sample. </p>
+        <div class="column6">
+        <p> Influence function serves as a quantitative metric of model sensitivity, measuring the degree of parameter variation, offering insights into model parameter behavior, and enabling parameter predictions without the need for retraining. The traditional influence function-based sensitivity relies on a sample-decremental approach, which only measures the impact of removing specific samples. This narrow focus restricts its ability to analyze model behavior in response to newly introduced samples, highlighting a significant limitation in adapting to dynamic data environments. In this work, we present the Sample-Incremental Influence Function that leverages influence function to evaluate the impact of additional data on model sensitivity. Correlation analysis and CAM-based visualization demonstrate the validity of our method and reveal its ability to detect key feature replacement. Sensitivity show strong potential for various applications related to feature corresponding to unknown sample. </p>
+        </div>        
+      
+        <div class="column6">
+          <p> <img src="https://github.com/int141312/int141312.github.io/blob/gh-pages/images/fig1.png?raw=true"> </p>
+        </div>
+      
       </div>
+
 
       <h3> Development and Training of Reinforcement Learning Environments with Dynamic Terrain Considerations: A Case Study on Robot Vacuum Cleaner (2023.03 ~ 2023.06) </h3>
       <p> * Language: Python </p>
@@ -175,12 +184,26 @@ My goal is not just to create models that can generate realistic outputs, but al
 
 
       <h3> Development of efficient dictionary training technology for large Korean language models (2024. 01 ~ 2024. 12) </h3>
-      <p> * Language: Python(Flask) </p>
+      <p> * Language: Python, PyTorch </p>
 
       <div class="columns" style='background-color: #ffffff'>
       <p> We developed a model to determine whether the input text is ungrammatical, contains hate speech, or discusses a book-related topic. </p>
       </div>
+
+
+      <h3> Correlation between park area and cost of living (2022.04 ~ 2022.06) </h3>   
+
+      <div class="columns" style='background-color: #ffffff'>
+        <div class="column6">
+        <p> I recently watched a YouTube video that argued Gangnam’s high cost of living is due to the lack of free recreational spaces, such as nearby parks. This prompted me to start a project to verify whether this claim holds true using data. While I could easily obtain data on metrics like per capita park area, defining a suitable indicator for the cost of living—and collecting the corresponding data—proved challenging. I eventually decided to use hair salon prices and oil prices as proxies for the cost of living, gathering the data by crawling Naver Map. Based on these data, I conducted a correlation analysis. </p>
+        </div>        
       
+        <div class="column6">
+          <p> <img src="https://github.com/int141312/int141312.github.io/blob/gh-pages/images/fig2.png?raw=true"> </p>
+          <p> <img src="https://github.com/int141312/int141312.github.io/blob/gh-pages/images/fig3.png?raw=true"> </p>
+        </div>
+      
+      </div>
       
     </div>
 </div>
