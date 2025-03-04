@@ -281,16 +281,17 @@ My dream is to contribute to making AI an everyday tool, just like calculators a
 
     <h3> 3 words abouts suceess </h3>
     <ul class="inside">
+    
     <li> Lifeization : Making It a Part of Your Daily Life.  </li>
     <p> Whether you’re eating, taking a walk, or even running errands, constantly thinking about your field and how to improve it is what it means to truly make it a part of your everyday life. So, Let's do something I'm passionate about.No matter what you do, there will always come a time when it's hard and you feel like giving up. To get through those moments, you need to do something you love and are passionate about. This is the secret to success and how I live my life. </p>
 
     <li> Momentum </li>
     <p> You won’t really know anything until you give it a try. That’s why people who lack the momentum to take action often find it difficult to succeed. To find a field that I have passion for and can fully lifeizate, I must overcome the fear of trying new things. Let’s develop the habit of quickly running pilot tests to determine whether something has potential or not. </p>
-    </ul>
 
     <li> Muscle growth : Mental Fortitude </li>
     <p> When you choose a particular field, you will inevitably face tough and challenging moments. To overcome these moments, having strong mental fortitude is absolutely essential.This is when you think about muscle growth. If you look at the process of muscle development, the first thing that happens is that muscle fibers tear, and new muscle fibers grow to fill the void. Human growth is no different than muscle development. The right amount of "tearing" is what makes you grow. </p>
 
+    </ul>
 
     
     <h3> 3 words about Happiness </h3>
