@@ -97,12 +97,13 @@ redirect_from:
     </div>
 
     <div class="column2">
-        <p>I am a deep learning enthusiast with a keen interest in Anomaly Detection, OOD detection, language model, diffusion models, and Data-centric AI. My passion lies in designing interpretable and inferable deep learning models that can emulate the complexities of the real world.
+        <p>I am highly interested in detecting and solving problems using data, machine learning, and deep learning technologies. I have conducted research and projects related to solving problems such as anomaly detection and OOD detection using deep learning, developing counseling chatbots and game NPCs with language models, working with generative models like diffusion models, and enhancing the quality of training data through data-centric AI. 
         </p>
         
         <p>
-My goal is not just to create models that can generate realistic outputs, but also to forge a deeper understanding of deep learning architectures and methodologies. Through this journey, I am committed to advancing research that demystifies the core mechanics of AI, making it as accessible and as natural to use in our daily lives as a calculator.
+My dream is to contribute to making AI an everyday tool, just like calculators and smartphones.
         </p>
+        
     <div class="columns">
       <div class="column3">
         <h3> Interests </h3>
